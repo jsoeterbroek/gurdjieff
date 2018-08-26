@@ -3,7 +3,6 @@
 import os
 basedir = os.path.abspath(os.path.dirname(__file__))
 
-
 class BaseConfig(object):
     """Base configuration."""
     SECRET_KEY = 'my_precious'
@@ -14,7 +13,6 @@ class BaseConfig(object):
     DEBUG_TB_INTERCEPT_REDIRECTS = False
     SQLALCHEMY_TRACK_MODIFICATIONS = False
 
-
 class DevelopmentConfig(BaseConfig):
     """Development configuration."""
     DEBUG = True
@@ -22,7 +20,7 @@ class DevelopmentConfig(BaseConfig):
     WTF_CSRF_ENABLED = False
     SQLALCHEMY_DATABASE_URI = 'sqlite:///' + os.path.join(basedir, 'dev.sqlite')
     DEBUG_TB_ENABLED = True
-
+    ENV = 'Development'
 
 class TestingConfig(BaseConfig):
     """Testing configuration."""
@@ -33,7 +31,7 @@ class TestingConfig(BaseConfig):
     SQLALCHEMY_DATABASE_URI = 'sqlite:///'
     DEBUG_TB_ENABLED = False
     PRESERVE_CONTEXT_ON_EXCEPTION = False
-
+    ENV = 'Testing'
 
 class ProductionConfig(BaseConfig):
     """Production configuration."""
@@ -41,3 +39,4 @@ class ProductionConfig(BaseConfig):
     DEBUG = False
     SQLALCHEMY_DATABASE_URI = 'postgresql://localhost/example'
     DEBUG_TB_ENABLED = False
+    ENV = 'Production'
