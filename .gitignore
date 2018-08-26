@@ -16,3 +16,5 @@ build/
 *.sqlite
 corpus
 migrations
+*.zip
+2018
