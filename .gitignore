@@ -13,4 +13,6 @@ build/
 *.swp
 *~
 *.sqlite3
+*.sqlite
 corpus
+migrations
