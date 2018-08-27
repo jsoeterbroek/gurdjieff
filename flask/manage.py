@@ -72,5 +72,11 @@ def create_data():
     """Creates sample data."""
     pass
 
+@manager.command
+def preproc_json():
+    """json preprocessor."""
+    import rechtspraak.opendata.preprocess_load_json
+    rechtspraak.opendata.preprocess_load_json.process_to_db('ECLI_NL_GHLEE_2010_701.json')
+
 if __name__ == '__main__':
     manager.run()
