@@ -15,7 +15,7 @@ function fix_json_file() {
         sed -i "$d/,$//" $f
         RET=1
     else
-        echo "INFO: found no jsonlint error..."
+        echo "INFO: found no jsonlint errors..."
         RET=0
     fi
     return $RET
@@ -35,9 +35,8 @@ fi
 # assume unpacked
 CURRENT_PWD_BASENAME=$(basename $(pwd))
 CURRENT_PWD=$(pwd)
-#for folder in uitspraken/*/; do
+#FIXME for folder in uitspraken/*/; do
 for folder in uitspraken/2010/; do
-  #echo "------- $folder"
   cd "$folder"
       if [ -f .unzipped ]; then
           echo "nothing to unzip in ${folder%/}"
@@ -50,32 +49,35 @@ for folder in uitspraken/2010/; do
               unzip -f $f > /dev/null
           done
           touch .unzipped
-
       fi
       for xmlfile in *.xml; do
           echo "------- $xmlfile"
           fbname=$(basename "$xmlfile" .xml)
           jsname="$fbname.json"
           xmlname="$fbname.xml"
-          #echo "DEBUG $fbname $jsname $xmlname"
+          #echo "DEBUG: $fbname $jsname $xmlname"
           if [ ! -f $jsname ]; then
-              echo "xml2json $fbname"
+              echo "INFO: xml2json $fbname"
               python ../../xml2json.py --pretty --strip_namespace --strip_newlines -t xml2json -o $jsname $xmlname
               /usr/bin/sed -i -f ../../preprocess.sed $jsname || exit 1
 
               if (jsonlint -c $jsname > /dev/null) 2>&1 | grep "expected: 'STRING'" > /dev/null ; then
                   echo "INFO: found jsonlint error, attempting to fix..."
-                  while ! fix_json_file "$file"; do
-                      echo -n "."
+                  while ! fix_json_file "$jsname"; do
+                      echo -n
                   done
               fi
 
-              cat $jsname | json_verify -u || mv $jsname $jsname.invalidjson
-
-              echo "compressing $xmlname"
-              gzip $xmlname
+              if cat $jsname | json_verify -u > /dev/null 2>&1 ; then
+                  echo "INFO: valid json in $jsname"
+                  echo "INFO compressing $xmlname"
+                  gzip $xmlname
+              else
+                  echo "ERR: invalid json in $jsname"
+                  mv $jsname $jsname.invalidjson
+              fi
           else
-              echo "skip $fbname, json allready created and checked for validity"
+              echo "INFO: skip $fbname, json allready created and checked for validity"
           fi
       done
   cd $CURRENT_PWD
