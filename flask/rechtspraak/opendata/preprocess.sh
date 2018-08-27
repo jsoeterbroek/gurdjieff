@@ -73,8 +73,10 @@ for folder in uitspraken/2010/; do
                   echo "INFO compressing $xmlname"
                   gzip $xmlname
               else
-                  echo "ERR: invalid json in $jsname"
-                  mv $jsname $jsname.invalidjson
+                  # FIXME: error counter en error total tally
+                  jsnameinvalidjson="$jsname.invalidjson"
+                  echo "ERR: invalid json in $jsname, moved file to $jsnameinvalidjson"
+                  mv $jsname $jsnameinvalidjson
               fi
           else
               echo "INFO: skip $fbname, json allready created and checked for validity"
