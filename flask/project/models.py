@@ -42,17 +42,19 @@ class Uitspraak(db.Model):
 
     id              = db.Column(db.Integer, primary_key=True, autoincrement=True)
     registered_on   = db.Column(db.DateTime, nullable=False)
-    identifier      = db.Column(db.String(25), default = '', unique=True)
+    identifier      = db.Column(db.String(25), unique=True, nullable=False)
     modified        = db.Column(db.String(255), nullable=False)
     publicatiedatum = db.Column(db.String(255), nullable=False)
     uitspraakdatum  = db.Column(db.String(255), nullable=False)
+    zaaknummer      = db.Column(db.String(255), nullable=False)
 
-    def __init__(self, identifier = '', modified, publicatiedatum, uitspraakdatum):
+    def __init__(self, identifier, modified, publicatiedatum, uitspraakdatum, zaaknummer):
         self.registered_on   = datetime.datetime.now()
         self.identifier      = identifier
         self.modified        = modified
         self.publicatiedatum = publicatiedatum
         self.uitspraakdatum  = uitspraakdatum
+        self.zaaknummer      = zaaknummer
 
     def get_id(self):
         return self.id
@@ -65,6 +67,9 @@ class Uitspraak(db.Model):
 
     def get_uitspraakdatum(self):
         return self.uitspraakdatum
+
+    def get_zaaknummer(self):
+        return self.zaaknummer
 
     def __repr__(self):
         return '<Identifier {0}>'.format(self.identifier)
