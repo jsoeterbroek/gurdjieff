@@ -76,7 +76,8 @@ def create_data():
 def preproc_json():
     """json preprocessor."""
     import rechtspraak.opendata.preprocess_load_json
-    rechtspraak.opendata.preprocess_load_json.process_to_db('ECLI_NL_GHLEE_2010_701.json')
+    #rechtspraak.opendata.preprocess_load_json.process_to_db('ECLI_NL_GHLEE_2010_701.json')
+    rechtspraak.opendata.preprocess_load_json.process_to_db('ECLI_NL_RBALK_2010_2337.json')
 
 if __name__ == '__main__':
     manager.run()
