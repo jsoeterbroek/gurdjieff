@@ -9,17 +9,17 @@ from flask_migrate import Migrate, MigrateCommand
 
 COV = coverage.coverage(
     branch=True,
-    include='project/*',
+    include='gurdjieff/*',
     omit=[
-        'project/tests/*',
-        'project/config.py',
-        'project/*/__init__.py'
+        'gurdjieff/tests/*',
+        'gurdjieff/config.py',
+        'gurdjieff/*/__init__.py'
     ]
 )
 COV.start()
 
-from project import app, db
-from project.models import User
+from gurdjieff import app, db
+from gurdjieff.models import User
 
 migrate = Migrate(app, db)
 manager = Manager(app)
@@ -30,7 +30,7 @@ manager.add_command('db', MigrateCommand)
 @manager.command
 def test():
     """Runs the unit tests without test coverage."""
-    tests = unittest.TestLoader().discover('project/tests', pattern='test*.py')
+    tests = unittest.TestLoader().discover('gurdjieff/tests', pattern='test*.py')
     result = unittest.TextTestRunner(verbosity=2).run(tests)
     if result.wasSuccessful():
         return 0
@@ -39,7 +39,7 @@ def test():
 @manager.command
 def cov():
     """Runs the unit tests with coverage."""
-    tests = unittest.TestLoader().discover('project/tests')
+    tests = unittest.TestLoader().discover('gurdjieff/tests')
     result = unittest.TextTestRunner(verbosity=2).run(tests)
     if result.wasSuccessful():
         COV.stop()
@@ -70,6 +70,11 @@ def create_admin():
 @manager.command
 def create_data():
     """Creates sample data."""
+    pass
+
+@manager.command
+def preproc():
+    """Preprocessor."""
     pass
 
 @manager.command

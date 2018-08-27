@@ -1,4 +1,4 @@
-# project/server/user/views.py
+# gurdjieff/server/user/views.py
 
 
 #################
@@ -9,9 +9,9 @@ from flask import render_template, Blueprint, url_for, \
     redirect, flash, request
 from flask_login import login_user, logout_user, login_required
 
-from project import bcrypt, db
-from project.models import User
-from project.user.forms import LoginForm, RegisterForm
+from gurdjieff import bcrypt, db
+from gurdjieff.models import User
+from gurdjieff.user.forms import LoginForm, RegisterForm
 
 ################
 #### config ####

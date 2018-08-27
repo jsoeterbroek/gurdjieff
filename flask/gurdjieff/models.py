@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-# project/models.py
+# gurdjieff/models.py
 import datetime
-from project import app, db, bcrypt
+from gurdjieff import app, db, bcrypt
 
 class User(db.Model):
 

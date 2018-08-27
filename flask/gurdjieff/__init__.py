@@ -1,4 +1,4 @@
-# project/__init__.py
+# gurdjieff/__init__.py
 
 
 #################
@@ -28,7 +28,7 @@ app = Flask(
 )
 
 
-app_settings = os.getenv('APP_SETTINGS', 'project.config.DevelopmentConfig')
+app_settings = os.getenv('APP_SETTINGS', 'gurdjieff.config.DevelopmentConfig')
 app.config.from_object(app_settings)
 
 ####################
@@ -46,8 +46,8 @@ db = SQLAlchemy(app)
 #### models ########
 ####################
 
-from project.models import User
-from project.models import Uitspraak
+from gurdjieff.models import User
+from gurdjieff.models import Uitspraak
 
 ###################
 ### admin #########
@@ -60,8 +60,8 @@ admin.add_view(ModelView(Uitspraak, db.session))
 ### blueprints ####
 ###################
 
-from project.user.views import user_blueprint
-from project.main.views import main_blueprint
+from gurdjieff.user.views import user_blueprint
+from gurdjieff.main.views import main_blueprint
 app.register_blueprint(user_blueprint)
 app.register_blueprint(main_blueprint)
 
