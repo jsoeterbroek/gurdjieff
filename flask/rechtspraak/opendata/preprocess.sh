@@ -70,7 +70,7 @@ for folder in uitspraken/2010/; do
 
               if cat $jsname | json_verify -u > /dev/null 2>&1 ; then
                   echo "INFO: valid json in $jsname"
-                  echo "INFO compressing $xmlname"
+                  echo "INFO: compressing $xmlname (to preserve disk space)"
                   gzip $xmlname
               else
                   # FIXME: error counter en error total tally
