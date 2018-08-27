@@ -53,6 +53,7 @@ for folder in uitspraken/2010/; do
 
       fi
       for xmlfile in *.xml; do
+          echo "------- $xmlfile"
           fbname=$(basename "$xmlfile" .xml)
           jsname="$fbname.json"
           xmlname="$fbname.xml"
@@ -74,7 +75,7 @@ for folder in uitspraken/2010/; do
               echo "compressing $xmlname"
               gzip $xmlname
           else
-              echo "skip $fbname"
+              echo "skip $fbname, json allready created and checked for validity"
           fi
       done
   cd $CURRENT_PWD
