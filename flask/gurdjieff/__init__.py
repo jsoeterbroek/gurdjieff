@@ -53,7 +53,7 @@ from gurdjieff.models import Uitspraak
 ### admin #########
 ###################
 
-admin = Admin(app, name='advobot', template_mode='bootstrap3')
+admin = Admin(app, name='gurdjieff', template_mode='bootstrap3')
 admin.add_view(ModelView(Uitspraak, db.session))
 
 ###################

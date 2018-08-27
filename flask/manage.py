@@ -75,7 +75,9 @@ def create_data():
 @manager.command
 def preproc():
     """Preprocessor."""
-    pass
+    import rechtspraak.opendata.preprocess
+    rechtspraak.opendata.preprocess.process_zip_to_xml('201112.zip')
+    rechtspraak.opendata.preprocess.process_xml_to_db('2011')
 
 @manager.command
 def preproc_json():
