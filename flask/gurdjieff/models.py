@@ -3,6 +3,48 @@
 import datetime
 from gurdjieff import app, db, bcrypt
 
+class Uitspraak(db.Model):
+
+    __tablename__ = "uitspraak"
+
+    id                          = db.Column(db.Integer, primary_key=True, autoincrement=True)
+    registered_on               = db.Column(db.DateTime, nullable=False)
+    description_identifier      = db.Column(db.String(25), unique=True, nullable=False)
+    description_format          = db.Column(db.String(25), nullable=False)
+    description_accessrights    = db.Column(db.String(25), nullable=False)
+    description_modified        = db.Column(db.String(255), nullable=False)
+    description_publicatiedatum = db.Column(db.String(255), nullable=False)
+    description_language        = db.Column(db.String(25), nullable=False)
+    description_uitspraakdatum  = db.Column(db.String(255), nullable=False)
+    description_zaaknummer      = db.Column(db.String(255), nullable=False)
+
+    def __init__(self,
+            description_identifier,
+            description_format,
+            description_accessrights,
+            description_modified,
+            description_publicatiedatum,
+            description_language,
+            description_uitspraakdatum,
+            description_zaaknummer
+        ):
+
+        self.registered_on               = datetime.datetime.now()
+        self.description_identifier      = description_identifier
+        self.description_format          = description_format
+        self.description_accessrights    = description_accessrights
+        self.description_modified        = description_modified
+        self.description_publicatiedatum = description_publicatiedatum
+        self.description_language        = description_language
+        self.description_uitspraakdatum  = description_uitspraakdatum
+        self.description_zaaknummer      = description_zaaknummer
+
+    def get_id(self):
+        return self.id
+
+    def __repr__(self):
+        return '<Identifier {0}>'.format(self.description_identifier)
+
 class User(db.Model):
 
     __tablename__ = "users"
@@ -35,42 +77,4 @@ class User(db.Model):
 
     def __repr__(self):
         return '<User {0}>'.format(self.email)
-
-class Uitspraak(db.Model):
-
-    __tablename__ = "uitspraak"
-
-    id              = db.Column(db.Integer, primary_key=True, autoincrement=True)
-    registered_on   = db.Column(db.DateTime, nullable=False)
-    identifier      = db.Column(db.String(25), unique=True, nullable=False)
-    modified        = db.Column(db.String(255), nullable=False)
-    publicatiedatum = db.Column(db.String(255), nullable=False)
-    uitspraakdatum  = db.Column(db.String(255), nullable=False)
-    zaaknummer      = db.Column(db.String(255), nullable=False)
-
-    def __init__(self, identifier, modified, publicatiedatum, uitspraakdatum, zaaknummer):
-        self.registered_on   = datetime.datetime.now()
-        self.identifier      = identifier
-        self.modified        = modified
-        self.publicatiedatum = publicatiedatum
-        self.uitspraakdatum  = uitspraakdatum
-        self.zaaknummer      = zaaknummer
-
-    def get_id(self):
-        return self.id
-
-    def get_modified(self):
-        return self.modified
-
-    def get_publicatiedatum(self):
-        return self.publicatiedatum
-
-    def get_uitspraakdatum(self):
-        return self.uitspraakdatum
-
-    def get_zaaknummer(self):
-        return self.zaaknummer
-
-    def __repr__(self):
-        return '<Identifier {0}>'.format(self.identifier)
 

@@ -5,10 +5,13 @@ from flask import Flask, render_template, url_for, json
 from gurdjieff import app, db
 from gurdjieff.models import Uitspraak
 
+#FIXME
+#      later: after development
 def process_zip_to_xml(zip):
     pass
 
 def process_xml_to_db(year):
+    """Parse all xml files for a give year and add to DB"""
 
     _dir = os.path.join('rechtspraak/opendata/uitspraken', year) 
     print(_dir)
@@ -26,22 +29,64 @@ def process_xml_to_db(year):
             _f = os.path.join(_dir, _file) 
             print("INFO: parsing %s" % _f)
             with open(_f, 'r', encoding="utf-8") as content:
+
+                #TODO: Do not parse xml if allready parsed (touchfile?)
+                #      later: after development
+
                 tree = etree.parse(content)
                 root = tree.getroot()
 
-                lst_identifier = root.findall('.//dcterms:identifier', namespaces=nsmap)
-                for l in lst_identifier:
-                    identifier = l.text
-                #print("DEBUG: Identifier: %s" % identifier)
+                # 4 delen
+                #
+                # 1.) <rdf:RDF/rdf:Description
+                # 1.1.) <dcterms:identifier>
+                a = root.xpath('rdf:RDF/rdf:Description/dcterms:identifier', namespaces=nsmap)
+                element = a[0] if a else None
+                description_identifier = element.text
+                # 1.2.) <dcterms:format>
+                a = root.xpath('rdf:RDF/rdf:Description/dcterms:format', namespaces=nsmap)
+                element = a[0] if a else None
+                description_format = element.text
+                # 1.3.) <dcterms:accessRights>
+                a = root.xpath('rdf:RDF/rdf:Description/dcterms:accessRights', namespaces=nsmap)
+                element = a[0] if a else None
+                description_accessrights = element.text
+                # 1.4.) <dcterms:modified>
+                a = root.xpath('rdf:RDF/rdf:Description/dcterms:modified', namespaces=nsmap)
+                element = a[0] if a else None
+                description_modified = element.text
+                # 1.5.) <dcterms:issued rdfs:label="Publicatiedatum">
+                a = root.xpath('rdf:RDF/rdf:Description/dcterms:issued', namespaces=nsmap)
+                element = a[0] if a else None
+                description_publicatiedatum = element.text
 
-                modified = 'foo' #FIXME
-                publicatiedatum = 'foo' #FIXME
-                uitspraakdatum = 'foo' #FIXME
-                zaaknummer = 'foo' #FIXME
+                # 1.6.) <dcterms:publisher>
+
+                # 1.7.) <dcterms:language>
+                a = root.xpath('rdf:RDF/rdf:Description/dcterms:language', namespaces=nsmap)
+                element = a[0] if a else None
+                description_language = element.text
+
+
+                description_uitspraakdatum = 'foo' #FIXME
+                description_zaaknummer = 'foo' #FIXME
+
+                #2) <rdf:RDF/rdf:Description rdf:about=
+                #3) <inhoudsindicatie
+                #4) <uitspraak
 
                 # add and commit to db
-                u = Uitspraak(identifier, modified, publicatiedatum, uitspraakdatum, zaaknummer)
-                exists = db.session.query(Uitspraak.id).filter_by(identifier=identifier).scalar() is not None
+                u = Uitspraak(
+                        description_identifier,
+                        description_format,
+                        description_accessrights,
+                        description_modified,
+                        description_publicatiedatum,
+                        description_language,
+                        description_uitspraakdatum,
+                        description_zaaknummer
+                        )
+                exists = db.session.query(Uitspraak.id).filter_by(description_identifier=description_identifier).scalar() is not None
                 if not exists:
                     db.session.add(u)
                     db.session.commit()
