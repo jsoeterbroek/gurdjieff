@@ -48,6 +48,7 @@ db = SQLAlchemy(app)
 
 from gurdjieff.models import User
 from gurdjieff.models import Uitspraak
+from gurdjieff.models import Hoofdrechtsgebied, Rechtsgebied
 
 ###################
 ### admin #########
@@ -55,6 +56,8 @@ from gurdjieff.models import Uitspraak
 
 admin = Admin(app, name='gurdjieff', template_mode='bootstrap3')
 admin.add_view(ModelView(Uitspraak, db.session))
+admin.add_view(ModelView(Hoofdrechtsgebied, db.session))
+admin.add_view(ModelView(Rechtsgebied, db.session))
 
 ###################
 ### blueprints ####

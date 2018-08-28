@@ -80,13 +80,10 @@ def preproc():
     rechtspraak.opendata.preprocess.process_xml_to_db('2011')
 
 @manager.command
-def preproc_json():
-    """json preprocessor."""
-    import rechtspraak.opendata.preprocess_load_json
-    rechtspraak.opendata.preprocess_load_json.process_to_db('ECLI_NL_GHLEE_2010_701.json')
-    rechtspraak.opendata.preprocess_load_json.process_to_db('ECLI_NL_RBALK_2010_5721.json')
-    rechtspraak.opendata.preprocess_load_json.process_to_db('ECLI_NL_RBALM_2010_1089.json')
-    rechtspraak.opendata.preprocess_load_json.process_to_db('ECLI_NL_RBALM_2010_1162.json')
+def preproc_rechtsgebieden():
+    """Rechtsgebieden preprocessor."""
+    import rechtspraak.opendata.preprocess_rechtsgebieden
+    rechtspraak.opendata.preprocess_rechtsgebieden.process_rechtsgebieden()
 
 if __name__ == '__main__':
     manager.run()
