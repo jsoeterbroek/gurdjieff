@@ -5,41 +5,6 @@ from gurdjieff import app, db, bcrypt
 from flask_admin import Admin
 from flask_admin.contrib.sqla import ModelView
 
-class Hoofdrechtsgebied(db.Model):
-
-    __tablename__ = "hoofdrechtsgebied"
-
-    id     = db.Column(db.Integer, primary_key=True, autoincrement=True)
-    naam   = db.Column(db.String(55))
-    subs   = db.relationship('Rechtsgebied', backref='hoofdrechtsgebied', lazy=True)
-
-    def __init__(self, naam, subs = []):
-        self.naam = naam
-        self.subs = subs
-
-    def get_id(self):
-        return self.id
-
-    def __repr__(self):
-        return '<Hoofdrechtsgebied {0}>'.format(self.naam)
-
-class Rechtsgebied(db.Model):
-
-    __tablename__ = "rechtsgebied"
-
-    id                    = db.Column(db.Integer, primary_key=True, autoincrement=True)
-    naam                  = db.Column(db.String(55))
-    hoofdrechtsgebied_id  = db.Column(db.Integer, db.ForeignKey('hoofdrechtsgebied.id'))
-
-    def __init__(self, naam):
-        self.naam = naam
-
-    def get_id(self):
-        return self.id
-
-    def __repr__(self):
-        return '<Rechtsgebied {0}>'.format(self.naam)
-
 class Uitspraak(db.Model):
 
     __tablename__ = "uitspraak"
@@ -52,6 +17,7 @@ class Uitspraak(db.Model):
     description_modified        = db.Column(db.String(255), nullable=False)
     description_publicatiedatum = db.Column(db.String(255), nullable=False)
     description_language        = db.Column(db.String(25), nullable=False)
+    description_rechtsgebied    = db.Column(db.String(255), nullable=False) # TODO relationship with Rechtsgebied
     description_uitspraakdatum  = db.Column(db.String(255), nullable=False)
     description_zaaknummer      = db.Column(db.String(255), nullable=False)
 
@@ -62,8 +28,9 @@ class Uitspraak(db.Model):
             description_modified,
             description_publicatiedatum,
             description_language,
+            description_rechtsgebied,
             description_uitspraakdatum,
-            description_zaaknummer
+            description_zaaknummer,
         ):
 
         self.registered                  = datetime.datetime.now().strftime("%Y-%m-%d")
@@ -73,6 +40,7 @@ class Uitspraak(db.Model):
         self.description_modified        = description_modified
         self.description_publicatiedatum = description_publicatiedatum
         self.description_language        = description_language
+        self.description_rechtsgebied    = description_rechtsgebied
         self.description_uitspraakdatum  = description_uitspraakdatum
         self.description_zaaknummer      = description_zaaknummer
 
@@ -88,6 +56,7 @@ class UitspraakAdminView(ModelView):
         'description_identifier': 'Identifier',
         'description_modified': 'Modified',
         'description_publicatiedatum': 'Publicatiedatum',
+        'description_rechtsgebied': 'Rechtsgebied',
         'description_uitspraakdatum': 'Uitspraakdatum',
         'description_zaaknummer': 'Zaaknummer',
     }
@@ -109,6 +78,22 @@ class UitspraakAdminView(ModelView):
     column_details_list = None
     column_display_pk = True
     can_view_details = False
+
+class Rechtsgebied(db.Model):
+
+    __tablename__ = "rechtsgebied"
+
+    id                    = db.Column(db.Integer, primary_key=True, autoincrement=True)
+    naam                  = db.Column(db.String(55))
+
+    def __init__(self, naam):
+        self.naam = naam
+
+    def get_id(self):
+        return self.id
+
+    def __repr__(self):
+        return '<Rechtsgebied {0}>'.format(self.naam)
 
 class User(db.Model):
 

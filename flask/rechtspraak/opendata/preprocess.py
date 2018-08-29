@@ -17,12 +17,11 @@ def process_xml_to_db(year):
     print(_dir)
 
     # namespaces map
-    # xmlns:dcterms="http://purl.org/dc/terms/"
-    # xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     nsmap = {
-            'dcterms': 'http://purl.org/dc/terms/',
-            'rdf': 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'
-            }
+        'dcterms': 'http://purl.org/dc/terms/',
+        'psi': 'http://psi.rechtspraak.nl/',
+        'rdf': 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+    }
 
     for _file in os.listdir(_dir):
         if 'xml' in _file:
@@ -67,9 +66,25 @@ def process_xml_to_db(year):
                 element = a[0] if a else None
                 description_language = element.text
 
+                # subject/rechtsgebied
+                a = root.xpath('rdf:RDF/rdf:Description/dcterms:subject', namespaces=nsmap)
+                if a:
+                    element = a[0]
+                    description_rechtsgebied = element.text
+                else:
+                    description_rechtsgebied = 'Onbekend'
 
                 description_uitspraakdatum = 'foo' #FIXME
-                description_zaaknummer = 'foo' #FIXME
+
+                #description_zaaknummer
+                a = root.xpath('rdf:RDF/rdf:Description/psi:zaaknummer', namespaces=nsmap)
+                if a:
+                    element = a[0]
+                    description_zaaknummer = element.text
+                else:
+                    description_zaaknummer = 'Geen/Onbekend'
+
+
 
                 #2) <rdf:RDF/rdf:Description rdf:about=
                 #3) <inhoudsindicatie
@@ -83,6 +98,7 @@ def process_xml_to_db(year):
                         description_modified,
                         description_publicatiedatum,
                         description_language,
+                        description_rechtsgebied,
                         description_uitspraakdatum,
                         description_zaaknummer
                         )
