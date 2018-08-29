@@ -2,6 +2,8 @@
 # gurdjieff/models.py
 import datetime
 from gurdjieff import app, db, bcrypt
+from flask_admin import Admin
+from flask_admin.contrib.sqla import ModelView
 
 class Hoofdrechtsgebied(db.Model):
 
@@ -22,6 +24,7 @@ class Hoofdrechtsgebied(db.Model):
         return '<Hoofdrechtsgebied {0}>'.format(self.naam)
 
 class Rechtsgebied(db.Model):
+
     __tablename__ = "rechtsgebied"
 
     id                    = db.Column(db.Integer, primary_key=True, autoincrement=True)
@@ -78,6 +81,34 @@ class Uitspraak(db.Model):
 
     def __repr__(self):
         return '<Identifier {0}>'.format(self.description_identifier)
+
+class UitspraakAdminView(ModelView):
+    column_searchable_list = ('description_identifier',)
+    column_labels = {
+        'description_identifier': 'Identifier',
+        'description_modified': 'Modified',
+        'description_publicatiedatum': 'Publicatiedatum',
+        'description_uitspraakdatum': 'Uitspraakdatum',
+        'description_zaaknummer': 'Zaaknummer',
+    }
+    column_exclude_list = (
+        'registered',
+        'description_format',
+        'description_accessrights',
+        'description_modified',
+        'description_language',
+    )
+    form_excluded_columns = (
+        'registered',
+        'description_format',
+        'description_accessrights',
+        'description_modified',
+        'description_language',
+    )
+    column_display_actions = False
+    column_details_list = None
+    column_display_pk = True
+    can_view_details = False
 
 class User(db.Model):
 
