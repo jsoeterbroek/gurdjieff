@@ -1,12 +1,26 @@
 # -*- coding: utf-8 -*-
-import os
+import os,sys
 from lxml import etree
-from flask import Flask, render_template, url_for, json
-from gurdjieff import app, db
-from gurdjieff.models import Uitspraak
+
+import django
+
+#  you have to set the correct path to you settings module
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'gurdjieff.settings')
+try:
+    from django.core.management import execute_from_command_line
+except ImportError as exc:
+    raise ImportError(
+        "Couldn't import Django. Are you sure it's installed and "
+        "available on your PYTHONPATH environment variable? Did you "
+        "forget to activate a virtual environment?"
+    ) from exc
+
+django.setup()
+from app.models import Uitspraak
 
 #FIXME
 #      later: after development
+
 def process_zip_to_xml(zip):
     pass
 
@@ -14,7 +28,6 @@ def process_xml_to_db(year):
     """Parse all xml files for a give year and add to DB"""
 
     _dir = os.path.join('rechtspraak/opendata/uitspraken', year) 
-    print(_dir)
 
     # namespaces map
     nsmap = {
@@ -91,18 +104,19 @@ def process_xml_to_db(year):
                 #4) <uitspraak
 
                 # add and commit to db
-                u = Uitspraak(
-                        description_identifier,
-                        description_format,
-                        description_accessrights,
-                        description_modified,
-                        description_publicatiedatum,
-                        description_language,
-                        description_rechtsgebied,
-                        description_uitspraakdatum,
-                        description_zaaknummer
+                q = Uitspraak.objects.filter(description_identifier=description_identifier)
+                if not q:
+                    u = Uitspraak(
+                            description_identifier=description_identifier,
+                            description_format=description_format,
+                            description_accessrights=description_accessrights,
+                            description_modified=description_modified,
+                            description_publicatiedatum=description_publicatiedatum,
+                            description_language=description_language,
+                            description_uitspraakdatum=description_uitspraakdatum,
+                            description_zaaknummer=description_zaaknummer
                         )
-                exists = db.session.query(Uitspraak.id).filter_by(description_identifier=description_identifier).scalar() is not None
-                if not exists:
-                    db.session.add(u)
-                    db.session.commit()
+                    u.save()
+
+if __name__ == "__main__":
+    process_xml_to_db('2006')

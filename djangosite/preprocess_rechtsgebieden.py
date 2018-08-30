@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-# gurdjieff/models.py
 import os,sys
 import datetime
 import django
