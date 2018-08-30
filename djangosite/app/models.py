@@ -13,8 +13,6 @@ class Rechtsgebied(models.Model):
 
 class Uitspraak(models.Model):
 
-    #__tablename__ = "uitspraak"
-
     registered                  = models.CharField(max_length=25)
     description_identifier      = models.CharField(max_length=25)
     description_format          = models.CharField(max_length=25)
@@ -25,4 +23,11 @@ class Uitspraak(models.Model):
     #description_rechtsgebied   TODO relationship with Rechtsgebied
     description_uitspraakdatum  = models.CharField(max_length=255)
     description_zaaknummer      = models.CharField(max_length=255)
+
+    class Meta:
+        verbose_name = "Uitspraak"
+        verbose_name_plural = "Uitspraken"
+
+    def __str__(self):
+        return self.description_identifier
 
