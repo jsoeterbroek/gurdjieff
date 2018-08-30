@@ -1,0 +1,5064 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Instanties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/ES/#AudienciaNacionalNationaalHof</Identifier>
+    <Naam> Audiencia Nacional (Nationaal Hof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/Aa</Identifier>
+    <Naam>Administrativa apgabaltiesa</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/LV/#AdministratīvāsrajonatiesasRīgastiesunamsadministratieverechtbank</Identifier>
+    <Naam>Administratīvās rajona tiesas Rīgas tiesu nams (administratieve rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1151</Identifier>
+    <Naam>Administrativen sad – Veliko Tarnovo (administratieve rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/BG/#AdministrativensadPlevenadministratieverechtbank</Identifier>
+    <Naam>Administrativen sad Pleven (administratieve rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/AsS</Identifier>
+    <Naam>Administrativen sad Sofia - grad (Administratieve rechtbank Sofia)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/sadvarna</Identifier>
+    <Naam>Administrativen Sad Varna (administratieve rechtbank Varna)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/ABo</Identifier>
+    <Naam>Amtsgericht Bonn (kantongerecht)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/ABD</Identifier>
+    <Naam>Amtsgericht Breisach (kantongerecht)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/AmB</Identifier>
+    <Naam>Amtsgericht Bruchsal (kantongerecht)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/AmtB</Identifier>
+    <Naam>Amtsgericht Büdingen (kantongerecht)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/AC</Identifier>
+    <Naam>Amtsgericht Charlottenburg (kantongerecht)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/AD</Identifier>
+    <Naam>Amtsgericht Dresden (kantongerecht)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/DE/#AmtsgerichtDüsseldorfkantongerecht</Identifier>
+    <Naam>Amtsgericht Düsseldorf (kantongerecht)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/AmF</Identifier>
+    <Naam>Amtsgericht Flensburg (kantongerecht)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/DE/#AmtsgerichtHannoverkantongerecht</Identifier>
+    <Naam>Amtsgericht Hannover (kantongerecht)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/DE/#AmtsgerichtKarlsruhekantongerecht</Identifier>
+    <Naam>Amtsgericht Karlsruhe (kantongerecht)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/AmK</Identifier>
+    <Naam>Amtsgericht Köln (kantongerecht)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/AmL</Identifier>
+    <Naam>Amtsgericht Lahr (kantongerecht)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/AL/I</Identifier>
+    <Naam>Amtsgericht Landau/Isar (kantongerecht)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1097</Identifier>
+    <Naam>Amtsgericht Laufen (kantongerecht)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/AGL</Identifier>
+    <Naam>Amtsgericht Löbau (kantongerecht)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/AN</Identifier>
+    <Naam>Amtsgericht Niebull (kantongerecht)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1148</Identifier>
+    <Naam>Amtsgericht Rüsselsheim (kantongerecht)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/AS</Identifier>
+    <Naam>Amtsgericht Schorndorf (kantongerecht)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/DE/#AmtsgerichtSonthofenkantongerecht</Identifier>
+    <Naam>Amtsgericht Sonthofen (kantongerecht)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/AmS</Identifier>
+    <Naam>Amtsgericht Stuttgart (kantongerecht)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/awaldshut</Identifier>
+    <Naam>Amtsgericht Waldshut-Tiengen (kantongerecht)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1159</Identifier>
+    <Naam>Amtsgericht Wedding (kantongerecht)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1089</Identifier>
+    <Naam>Ankenaesvnet for Uddannelsesstotten (College van Beroep voor de opleiding)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/ADC</Identifier>
+    <Naam>Anotato Dikastirio (Hooggerechtshof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/IE/#AppealCommissionersberoepinzakebelastingen</Identifier>
+    <Naam>Appeal Commissioners (beroep inzake belastingen)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/APTM</Identifier>
+    <Naam>Appointed Person Trade Marks Act 1994, s. 76</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/ABA</Identifier>
+    <Naam>Arbeidshof Antwerpen</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/ABB</Identifier>
+    <Naam>Arbeidshof Brussel</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/AHG</Identifier>
+    <Naam>Arbeidshof Gent</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/ABH</Identifier>
+    <Naam>Arbeidshof Luik</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/arbrbantw</Identifier>
+    <Naam>Arbeidsrechtbank Antwerpen</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/ARBB</Identifier>
+    <Naam>Arbeidsrechtbank Brussel</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/AG</Identifier>
+    <Naam>Arbeidsrechtbank Gent</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/ARBHa</Identifier>
+    <Naam>Arbeidsrechtbank Hasselt</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1076</Identifier>
+    <Naam>Arbeidsrechtbank Leuven</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/ArN</Identifier>
+    <Naam>Arbeidsrechtbank Nijvel</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/artn</Identifier>
+    <Naam>Arbeidsrechtbank Tongeren (België)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/arbth</Identifier>
+    <Naam>Arbeidsrechtbank Turnhout</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/AB</Identifier>
+    <Naam>Arbeitsgericht Berlin</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/ArB</Identifier>
+    <Naam>Arbeitsgericht Bonn</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/ArbH</Identifier>
+    <Naam>Arbeitsgericht Hamburg</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/ludwigshafen</Identifier>
+    <Naam>Arbeitsgericht Ludwigshafen am Rhein</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/AGM</Identifier>
+    <Naam>Arbeitsgericht München</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1114</Identifier>
+    <Naam>Arbeitsgericht Nienburg (Rechtbank voor arbeidszaken Nienburg)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1071</Identifier>
+    <Naam>Arbeitsgericht Passau</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/AbS</Identifier>
+    <Naam>Arbeitsgericht Siegburg</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/AW</Identifier>
+    <Naam>Arbeitsgericht Wuppertal</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/AL</Identifier>
+    <Naam>Arbetsdomstol</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1152</Identifier>
+    <Naam>Arbetsdomstolen (arbeidsrechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/ACGR</Identifier>
+    <Naam>Arbitraal College van de Geschillencommissie Reizen</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/ABBEL</Identifier>
+    <Naam>Arbitragehof van België</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/AHTSJ</Identifier>
+    <Naam>Arbitragehof van Tsjechië</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/AP</Identifier>
+    <Naam>Areios Pagos (Hooggerechtshof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1070</Identifier>
+    <Naam>Asylgerichtshof</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/AIT</Identifier>
+    <Naam>Asylum and Immigration Tribunal</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/APdB</Identifier>
+    <Naam>Audiencia Provincial de Barcelona (provincierechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/ES/#AudienciaProvincialdeCastellónprovincierechtbank</Identifier>
+    <Naam>Audiencia Provincial de Castellón (provincierechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/APdC</Identifier>
+    <Naam>Audiencia Provincial de la Coruna (provincierechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/APdM</Identifier>
+    <Naam>Audiencia Provincial de Madrid (provincierechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/ES/#AudienciaProvincialdeNavarra</Identifier>
+    <Naam>Audiencia Provincial de Navarra (provincierechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/apoviedo</Identifier>
+    <Naam>Audiencia Provincial de Oviedo (provincierechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1115</Identifier>
+    <Naam>Audiencia Provincial de Salamanca (Provinciale rechtbank van Salamanca)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/APdT</Identifier>
+    <Naam>Audiencia Provincial de Tarragona (provincierechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/At</Identifier>
+    <Naam>Augstakas tiesas (Hooggerechtshof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/IT/#AutoritàperlavigilanzasuicontrattipubblicidilavoriserviziefornitureAutoriteitvoortoezichtopdeoverheidsopdrachtenvoorwerkendienstenenleveringen</Identifier>
+    <Naam>Autorità per la vigilanza sui contratti pubblici di lavori, servizi e forniture (Autoriteit voor toezicht op de overheidsopdrachten voor werken, diensten en leveringen)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/BKMB</Identifier>
+    <Naam>Bacs-Kiskun Megyei Birosag (regionale rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/BCNJ</Identifier>
+    <Naam>Bankruptcy court, district of New Jersey, Trenton US</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/BaMB</Identifier>
+    <Naam>Baranya Megyei Birosag (regionale rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/BVh</Identifier>
+    <Naam>Bayerischer Verwaltungsgerichtshof</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/BLs</Identifier>
+    <Naam>Bayerisches Landessozialgericht</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/BVM</Identifier>
+    <Naam>Bayerisches Verwaltungsgericht München</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CEPINA</Identifier>
+    <Naam>Belgisch Centrum voor Arbitrage en Mediatie</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/BRL</Identifier>
+    <Naam>Berufungssenat der Region Linz bei der Finanzlandesdirektion Oberösterreich</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/BzL</Identifier>
+    <Naam>Bezirksgericht Linz (kantongerecht)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/BVB</Identifier>
+    <Naam>Budaorsi Varosi Birosag (regionale rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/HU/#BudapestKörnyékiTörvényszékHofBoedapest</Identifier>
+    <Naam>Budapest Környéki Törvényszék (Hof Boedapest)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/BKB</Identifier>
+    <Naam>Budapesti II. es III. Keruleti Birosag (arrondissementsrechtbank Boedapest)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/BAD</Identifier>
+    <Naam>Bundesarbeitsgericht</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/AT/#Bundesfinanzgericht</Identifier>
+    <Naam>Bundesfinanzgericht </Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/BFH</Identifier>
+    <Naam>Bundesfinanzhof</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/bghd</Identifier>
+    <Naam>Bundesgerichtshof</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/Bks</Identifier>
+    <Naam>Bundeskommunikationssenat</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/BpG</Identifier>
+    <Naam>Bundespatentgericht</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/Bsg</Identifier>
+    <Naam>Bundessozialgericht</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/bvgd</Identifier>
+    <Naam>Bundesverfassungsgericht</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/BWG</Identifier>
+    <Naam>Bundesverwaltungsgericht</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/bie</Identifier>
+    <Naam>Bureau voor de Industriële Eigendom</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CtdB</Identifier>
+    <Naam>Commissione tributaria centrale di Bologna</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CtdpgT</Identifier>
+    <Naam>Commissione tributaria di primo grado di Trento</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CtpA</Identifier>
+    <Naam>Commissione tributaria provinciale de Alessandria</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/IT/#CommissioneTributariaProvincialediCagliari</Identifier>
+    <Naam>Commissione Tributaria Provinciale di Cagliari </Naam>
+    <Afkorting>xx</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CtpG</Identifier>
+    <Naam>Commissione tributaria provinciale di Genova</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1171</Identifier>
+    <Naam>Commissione Tributaria Provinciale di Latina</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CtpMC</Identifier>
+    <Naam>Commissione tributaria provinciale di Massa Carrarra</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CtpN</Identifier>
+    <Naam>Commissione tributaria provinciale di Napoli</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/comtripropalermo</Identifier>
+    <Naam>Commissione Tributaria Provinciale di Palermo</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CTPR</Identifier>
+    <Naam>Commissione Tributaria Provinciale di Roma</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CTPdT</Identifier>
+    <Naam>Commissione Tributaria Provinciale di Taranto</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/IT/#CommissioneTributariaProvincialediTorino</Identifier>
+    <Naam>Commissione Tributaria Provinciale di Torino </Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CTRdF</Identifier>
+    <Naam>Commissione Tributaria Regionale di Firenze</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/IT/#CommissioneTributariaRegionalediMestreVenezia</Identifier>
+    <Naam>Commissione Tributaria Regionale di Mestre-Venezia </Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/comtribregMilano</Identifier>
+    <Naam>Commissione Tributaria Regionale di Milano</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CTRT</Identifier>
+    <Naam>Commissione Tributaria Regionale di Trieste</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/FR/#ConseildeprudhommesdeParisarbeidsrecht</Identifier>
+    <Naam>Conseil de prud’hommes de Paris (arbeidsrecht)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CDE</Identifier>
+    <Naam>Conseil d'Etat</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/IT/#ConsigliodiGiustiziaammistrativaperlaregioneSicilianaRaadvoorJustitieadministratiefregioSicilië</Identifier>
+    <Naam>Consiglio di Giustizia ammistrativa per la regione Siciliana (Raad voor Justitie administratief, regio Sicilië)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CdS</Identifier>
+    <Naam>Consiglio di Stato (Raad van State)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1149</Identifier>
+    <Naam>Consiglio Nazionale Forense (Nationale Orde van Advocaten)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/contcomsp</Identifier>
+    <Naam>Controlecommissie spoorwegen</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CoC</Identifier>
+    <Naam>Corte Constitutionale</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/IT/#CortedAppellodiBariHofvanBeroep</Identifier>
+    <Naam>Corte d' Appello di Bari (Hof van Beroep)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CAC</Identifier>
+    <Naam>Corte d'Appello di Cagliari (Hof van Beroep)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CaF</Identifier>
+    <Naam>Corte d'appello di Firenze (Hof van Beroep)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CaM</Identifier>
+    <Naam>Corte d'appello di Milano (Hof van Beroep)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CaR</Identifier>
+    <Naam>Corte d'Appello di Roma</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CDAT</Identifier>
+    <Naam>Corte d'Appello di Torino (Hof van Beroep)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CdeiC</Identifier>
+    <Naam>Corte dei Conti (Rekenkamer)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CSC</Identifier>
+    <Naam>Corte Suprema di Cassazione</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CAL</Identifier>
+    <Naam>Cour administrative</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1142</Identifier>
+    <Naam>Cour administrative d’appel de Paris</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CadaD</Identifier>
+    <Naam>Cour administrative d'appel de Douai</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CadaL</Identifier>
+    <Naam>Cour administrative d'appel de Lyon</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CaaN</Identifier>
+    <Naam>Cour administrative d'appel de Nantes (administratief Hof van Beroep)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/cdaa</Identifier>
+    <Naam>Cour d' Appel d' Angers</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CdA</Identifier>
+    <Naam>Cour d'appel Amiens</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CAG</Identifier>
+    <Naam>Cour d'appel de Grenoble</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1082</Identifier>
+    <Naam>Cour d'appel de Lyon</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CdAM</Identifier>
+    <Naam>Cour d'appel de Montpellier</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CdaN</Identifier>
+    <Naam>Cour d'appel de Nancy</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/cdap</Identifier>
+    <Naam>Cour d'appel de Paris</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/FR/#CourdappeldePau</Identifier>
+    <Naam>Cour d'appel de Pau</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CaP</Identifier>
+    <Naam>Cour d'Appel de Poitiers</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CDAR</Identifier>
+    <Naam>Cour d'Appel De Rennes</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CdaRo</Identifier>
+    <Naam>Cour d'appel de Rouen</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/cdav</Identifier>
+    <Naam>Cour d'Appel de Versailles</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CdaL</Identifier>
+    <Naam>Cour d'appel Luxemburg</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CC</Identifier>
+    <Naam>Cour de Cassation</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CdC</Identifier>
+    <Naam>Cour de Cassation</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/coa</Identifier>
+    <Naam>Court of Appeal</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CoSS</Identifier>
+    <Naam>Court of Session Schotland (hoogste civiele rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CaB</Identifier>
+    <Naam>Curte de Apel Bacau (Hof van Beroep)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/RO/#CurteadeApelAlbaIuliaHofvanBeroep</Identifier>
+    <Naam>Curtea de Apel Alba Iulia (Hof van Beroep)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/RO/#CurteadeApelBrașovHofvanBeroep</Identifier>
+    <Naam>Curtea de Apel Brașov (Hof van Beroep)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1068</Identifier>
+    <Naam>Curtea de Apel Bucuresti (Hof van Beroep)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1069</Identifier>
+    <Naam>Curtea de Apel Cluj (Hof van Beroep)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1116</Identifier>
+    <Naam>Curtea de Apel Oradea (Hof van Beroep)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/RO/#CurteadeapelTimisoaraHofvanBeroep</Identifier>
+    <Naam>Curtea de apel Timisoara (Hof van Beroep)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1145</Identifier>
+    <Naam>Datenschutzkommission (Commissie voor gegevensbescherming)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1132</Identifier>
+    <Naam>Debreceni Munkaügyi Bíróság (arbeidsrechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/DE/#DerGerichtsbezirkdesLandgerichtsArnsbergrechtbank</Identifier>
+    <Naam>Der Gerichtsbezirk des Landgerichts Arnsberg (rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/DET</Identifier>
+    <Naam>Dioikitiko Efeteio Thessalonikis (bestuurlijk Hof van Beroep)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/DPA</Identifier>
+    <Naam>Dioikitiko Protodikeio Athinas</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/DPI</Identifier>
+    <Naam>Dioikitiko Protodikeio Ioanninon</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/GR/#DiokitikoEfeteioAthinonbestuurlijkHofvanBeroep</Identifier>
+    <Naam>Diokitiko Efeteio Athinon (bestuurlijk Hof van Beroep)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/SI/#DrzavnarevizyskakomisijazarevizyopostopkovoddaijejavnihnarocilNationaleBeoordelingscommissie</Identifier>
+    <Naam>Drzavna revizyska komisija za revizyo postopkov oddaije javnih narocil (Nationale Beoordelingscommissie) </Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/dublinmetro</Identifier>
+    <Naam>Dublin Metropolitan District Court</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/ETC</Identifier>
+    <Naam>Edinburgh Tribunal Centre</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/EP</Identifier>
+    <Naam>Efeteio Patron</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/elegtiko</Identifier>
+    <Naam>Elegktiko Sinedrio (Rekenkamer)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/ETL</Identifier>
+    <Naam>Employment Tribunal (Leeds)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1131</Identifier>
+    <Naam>Employment Tribunal (Leicester)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1164</Identifier>
+    <Naam>Employment Tribunal/Industrial Tribunal Belfast</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/CY/#EparchiakoDikastirioLarnakasrechtbank</Identifier>
+    <Naam>Eparchiako Dikastirio Larnakas (rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/CY/#EparchiakoDikastirioLefkosiasrechtbank</Identifier>
+    <Naam>Eparchiako Dikastirio Lefkosias (rechtbank)</Naam>
+    <Afkorting>xx</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1111</Identifier>
+    <Naam>Equality Tribunal</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/Fa</Identifier>
+    <Naam>Finanzamt</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/FBW</Identifier>
+    <Naam>Finanzgericht Baden-Württemberg</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/DE/#FinanzgerichtBremen</Identifier>
+    <Naam>Finanzgericht Bremen</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/FLB</Identifier>
+    <Naam>Finanzgericht des Landes Brandenburg</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/FD</Identifier>
+    <Naam>Finanzgericht Düsseldorf</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/FH</Identifier>
+    <Naam>Finanzgericht Hamburg</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/FG</Identifier>
+    <Naam>Finanzgericht Köln</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/FM</Identifier>
+    <Naam>Finanzgericht München</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/FgM</Identifier>
+    <Naam>Finanzgericht Münster</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/FN</Identifier>
+    <Naam>Finanzgericht Nedersaksen</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/FT</Identifier>
+    <Naam>Finanzgericht Thüringen</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/FTT</Identifier>
+    <Naam>First tier Tribunal</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1136</Identifier>
+    <Naam>Förvaltningsrätt i Linköping (administratieve rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/SE/#FörvaltningsrätteniMalmöadministratieverechtbank</Identifier>
+    <Naam>Förvaltningsrätten i Malmö (administratieve rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1139</Identifier>
+    <Naam>Förvaltningsrätten Stockholm (administratieve rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/FB</Identifier>
+    <Naam>Fovarosi Birosag (rechtbank in eerste aanleg)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/FBB</Identifier>
+    <Naam>Fovarosi Birosag Boedapest (rechtbank in eerste aanleg)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/FI</Identifier>
+    <Naam>Fovarosi Itelotabla (Hof van Beroep)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/HU/#FovarosiKozigazgatasiesmunkaugyibirosag</Identifier>
+    <Naam>Fovarosi Kozigazgatasi es munkaugyi birosag </Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1121</Identifier>
+    <Naam>Fövárosi Törvényszék (Stedelijke rechtbank van Boedapest)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1153</Identifier>
+    <Naam>Franstalige Gewestelijke Raad van de Orde der Dierenartsen</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/LI/#FürstlichesLandgerichtLiechtensteinrechtbankineersteaanleg</Identifier>
+    <Naam>Fürstliches Landgericht Liechtenstein (rechtbank in eerste aanleg)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/GEIE</Identifier>
+    <Naam>Gericht Erster Instanz Eupen</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/GpC</Identifier>
+    <Naam>Giudice di pace di Cortona (vrederechter)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/GpM</Identifier>
+    <Naam>Giudice di pace di Monselice</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/GpV</Identifier>
+    <Naam>Giudice di Pace di Varese</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/GH</Identifier>
+    <Naam>Grondwettelijk Hof</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/GWHBEL</Identifier>
+    <Naam>Grondwettelijk Hof van België</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/IT/#GuidicediPacediMateravrederechter</Identifier>
+    <Naam>Guidice di Pace di Matera (vrederechter)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/HU/#Gyulaikozigazgatasiesmurkaugyibirosagrechtbank</Identifier>
+    <Naam>Gyulai kozigazgatasi es murkaugyi birosag (rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/HU/#GyulaiTorvenyszek</Identifier>
+    <Naam>Gyulai Torvenyszek </Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/HBMB</Identifier>
+    <Naam>Hajdu-Bihar Megyei Birosag (regionale rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1083</Identifier>
+    <Naam>Hamburgisches Oberverwaltungsgericht (administratief hof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/HW</Identifier>
+    <Naam>Handelsgericht Wien</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/Htr</Identifier>
+    <Naam>Handens tingsrätt (rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/HOB</Identifier>
+    <Naam>Hanseatisches Oberlandesgericht Bremen (gerechtshof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1140</Identifier>
+    <Naam>Hanseatisches Oberlandesgericht Hamburg (gerechtshof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/EE/#HarjuMaakohuskantongerecht</Identifier>
+    <Naam>Harju Maakohus (kantongerecht)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/SE/#Helsingborgstingsrättrechtbank</Identifier>
+    <Naam>Helsingborgs tingsrätt (rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/FI/#HelsinginHovioikeusgerechtshof</Identifier>
+    <Naam>Helsingin Hovioikeus (gerechtshof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/HK</Identifier>
+    <Naam>Helsingin Karajaoikeus (discrict court)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/HF</Identifier>
+    <Naam>Hessische Finanzgericht</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/DE/#HessischesLandesarbeitsgerichtArbeidshof</Identifier>
+    <Naam>Hessisches Landesarbeitsgericht (Arbeidshof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/HLsg</Identifier>
+    <Naam>Hessisches Landessozialgericht</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/HCoJ</Identifier>
+    <Naam>High Court of Justice</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/HCJCDVC</Identifier>
+    <Naam>High Court of Justice Chancery Division Vice-Chancelor</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/HCOFLDR</Identifier>
+    <Naam>High Court of Justice Leeds District Registry</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/HCJQBD</Identifier>
+    <Naam>High Court of Justice Queen's Bench Division</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/HCJCD</Identifier>
+    <Naam>High Court of Justice, Chancery Division</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/hvbbe</Identifier>
+    <Naam>Hof van arbitrage</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/hvba</Identifier>
+    <Naam>Hof van beroep Antwerpen</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/hvbbg</Identifier>
+    <Naam>Hof van beroep Bergen</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/hvbb</Identifier>
+    <Naam>Hof van beroep Brussel</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/hvbg</Identifier>
+    <Naam>Hof van beroep Gent</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/hvbl</Identifier>
+    <Naam>Hof van beroep Luik</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/HvBM</Identifier>
+    <Naam>Hof van Beroep te Mons</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/hvcb</Identifier>
+    <Naam>Hof van Cassatie</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/HvJvS</Identifier>
+    <Naam>Hof van Justitie van Suriname</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CCsa</Identifier>
+    <Naam>Hoge Raad voor de Audiovisuele Sector van de Franse Gemeenschap van België</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/HDZ</Identifier>
+    <Naam>Hogsta Domstolen (supreme court)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/SE/#HögstaFörvaltningsdomstolen</Identifier>
+    <Naam>Högsta Förvaltningsdomstolen</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/HT</Identifier>
+    <Naam>Højesteret</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/hol</Identifier>
+    <Naam>House of Lords</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/HON</Identifier>
+    <Naam>Hovratten for Ovre Norrland (Hof van Beroep)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/SE/#HovrättenförvästraSverigeHofvanBeroep</Identifier>
+    <Naam>Hovrätten för västra Sverige (Hof van Beroep)</Naam>
+    <Afkorting>xx</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/ICdCJ</Identifier>
+    <Naam>Inalta Curte de Casatie si Justitie (Hof van Cassatie)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/IHC</Identifier>
+    <Naam>Irish High Court of Justice</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/jasz</Identifier>
+    <Naam>Jasz-Nagykun-Szolnok Megyei Birosag (regionale rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/RO/#JudecătoriaBalşdistrictsrechtbank</Identifier>
+    <Naam>Judecătoria Balş (districtsrechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/RO/#JudecătoriaCâmpulungdistrictsrechtbank</Identifier>
+    <Naam>Judecătoria Câmpulung (districtsrechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/JF</Identifier>
+    <Naam>Judecatoria Focsani (districtsrechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/RO/#Judecatoriaoradearechtbank</Identifier>
+    <Naam>Judecatoria oradea (districtsrechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/RO/#JudecatoriaSibiurechtbank</Identifier>
+    <Naam>Judecatoria Sibiu (districtsrechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1141</Identifier>
+    <Naam>Juzgado contencioso administrativo Barcelona (administratieve geschillen)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/JcaC</Identifier>
+    <Naam>Juzgado contencioso administrativo Coruna (administratieve geschillen)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/ES/#JuzgadocontenciosoadministrativodeFerrolHofvooradministratievegeschillen</Identifier>
+    <Naam>Juzgado contencioso administrativo de Ferrol (administratieve geschillen)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1122</Identifier>
+    <Naam>Juzgado contencioso administrativo Ourense (administratieve geschillen)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/JcaP</Identifier>
+    <Naam>Juzgado contencioso administrativo Pontevedra (administratieve geschillen)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/JcaS</Identifier>
+    <Naam>Juzgado contencioso administrativo Sevilla (administratieve geschillen)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/ES/#JuzgadoContenciosoAdministrativodeMadridadministratievegeschillen</Identifier>
+    <Naam>Juzgado Contencioso-Administrativo de Madrid (administratieve geschillen)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/ES/#JuzgadoContenciosoAdministrativodeMurciaadministratiefrechtelijkegeschillen</Identifier>
+    <Naam>Juzgado Contencioso-Administrativo de Murcia (administratieve geschillen)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/ES/#JuzgadodeloContenciosoAdministrativodeTarragonaadministratievegeschillen</Identifier>
+    <Naam>Juzgado de lo Contencioso Administrativo de Tarragona (administratieve geschillen)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/ES/#JuzgadodeloContenciosoAdministrativodeBilbaoadministratievegeschillen</Identifier>
+    <Naam>Juzgado de lo Contencioso-Administrativo de Bilbao (administratieve geschillen)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/ES/#Juzgadodelocontenciosoadministrativonº4deOviedoHofvooradministratievegeschillen</Identifier>
+    <Naam>Juzgado de lo contencioso-administrativo de Oviedo (administratieve geschillen)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/JMA</Identifier>
+    <Naam>Juzgado de lo Mercantil Alicante (Handelsrechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/JM</Identifier>
+    <Naam>Juzgado de lo Mercantil Barcelona (Handelsrechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/ES/#JuzgadodeloMercantildeGranada</Identifier>
+    <Naam>Juzgado de lo Mercantil de Granada (handelsrechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/JMP</Identifier>
+    <Naam>Juzgado de lo Mercantil de Pontevedra (Handelsrechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/JMB</Identifier>
+    <Naam>Juzgado de lo Mercantil Malaga (Handelsrechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1167</Identifier>
+    <Naam>Juzgado de lo Social de Barcelona</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1168</Identifier>
+    <Naam>Juzgado de lo Social de Benidorm</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/ES/#JuzgadodeloSocialdeCórdoba</Identifier>
+    <Naam>Juzgado de lo Social de Córdoba </Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/ES/#JuzgadodelosocialdeGranadarechtbanksocialezaken</Identifier>
+    <Naam>Juzgado de lo social de Granada (rechtbank sociale zaken)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1085</Identifier>
+    <Naam>Juzgado de lo Social de Lleida</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/JSM</Identifier>
+    <Naam>Juzgado de lo Social de Madrid</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/ES/#JuzgadodelosocialdeTerrassa</Identifier>
+    <Naam>Juzgado de lo social de Terrassa </Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/JSD</Identifier>
+    <Naam>Juzgado de lo Social Donostia-San Sebastian</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/JSA</Identifier>
+    <Naam>Juzgado de lo Social Unico de Algeciras</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/JSV</Identifier>
+    <Naam>Juzgado de lo Social Valladolid</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/JpiB</Identifier>
+    <Naam>Juzgado de Primera Instancia Bilbao (rechtbank in eerste aanleg)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1088</Identifier>
+    <Naam>Juzgado de primera instancia de Badajoz (rechtbank in eerste aanleg)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/ES/#JuzgadodePrimeraInstanciadeBarcelonarechtbankineersteaanleg</Identifier>
+    <Naam>Juzgado de Primera Instancia de Barcelona (rechtbank in eerste aanleg</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/ES/#JuzgadodePrimeraInstanciadeCartagenarechtbankineersteaanleg</Identifier>
+    <Naam>Juzgado de Primera Instancia de Cartagena (rechtbank in eerste aanleg)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/ES/#JuzgadodePrimeraInstanciadeMadridrechtbankineersteaanleg</Identifier>
+    <Naam>Juzgado de Primera Instancia de Madrid (rechtbank in eerste aanleg)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/ES/#JuzgadodePrimeraInstanciadePalmadeMallorcarechtbank</Identifier>
+    <Naam>Juzgado de Primera Instancia de Palma de Mallorca (rechtbank)</Naam>
+    <Afkorting>xx</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/ES/#JuzgadodeprimerainstanciadeSantanderrechtbankineersteaanleg</Identifier>
+    <Naam>Juzgado de primera instancia de Santander (rechtbank in eerste aanleg)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/ES/#JuzgadodePrimeraInstanciaeInstruccióndeMarchenarechtbankineersteaanleg</Identifier>
+    <Naam>Juzgado de Primera Instancia e Instrucción de Marchena (rechtbank in eerste aanleg)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/Jpi</Identifier>
+    <Naam>Juzgado de primera instancia San Javier (rechtbank in eerste aanleg)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/ES/#JuzgadodeViolenciasobrelaMujernº1Terrassafamiliezaken</Identifier>
+    <Naam>Juzgado de Violencia sobre la Mujer nº 1 Terrassa (familiezaken)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/KvBES</Identifier>
+    <Naam>Kamer van Beroep van de Europese scholen</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/KS</Identifier>
+    <Naam>Kammarratten i Sundsval (administrative court of appeal)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/KaS</Identifier>
+    <Naam>Kammarrätten Stockholm (beroepsinstantie voor districtsrechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/KG</Identifier>
+    <Naam>Kammergericht Berlin</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/HU/#KecskemétiKözigazgatásiésMunkaügyiBíróság</Identifier>
+    <Naam>Kecskeméti Közigazgatási és Munkaügyi Bíróság </Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/KEMB</Identifier>
+    <Naam>Komarom-Esztergom Megyei Birosag (regionale rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/KoT</Identifier>
+    <Naam>Konstitucinis Teismas (Constitutioneel hof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/KHo</Identifier>
+    <Naam>Korkein Hallinto-oikeus (supreme administrative court)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/Ko</Identifier>
+    <Naam>Korkein oikeus (supreme court)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/Kt</Identifier>
+    <Naam>Korsholms tingsrätt (rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1126</Identifier>
+    <Naam>Krajowa Izba Odwolawcza (Raad van Beroep)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/KsB</Identifier>
+    <Naam>Krajský soud v Brne (regionaal Hof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/KsO</Identifier>
+    <Naam>Krajsky soud v Ostrave (regionaal Hof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1103</Identifier>
+    <Naam>Krajský soud v Plzni (regionaal Hof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/CZ/#KrajskýsoudvPrazeregionaalHof</Identifier>
+    <Naam>Krajský soud v Praze (regionaal Hof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/KsU</Identifier>
+    <Naam>Krajsky soud v Usti nad Labem (regionaal Hof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/KsP</Identifier>
+    <Naam>Krajský súd v Presove (regionale rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1129</Identifier>
+    <Naam>Kuria (Hooggerechtshof, vanaf 1-1-2012)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/LC</Identifier>
+    <Naam>Labour Court Dublin</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/LO</Identifier>
+    <Naam>Landes- als Handelsgericht Korneuburg</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/lagberlin</Identifier>
+    <Naam>Landesarbeitsgericht Berlin-Brandenburg (arbeidshof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/LD</Identifier>
+    <Naam>Landesarbeitsgericht Düsseldorf (arbeidshof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/LaH</Identifier>
+    <Naam>Landesarbeitsgericht Hamburg (arbeidshof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/LagH</Identifier>
+    <Naam>Landesarbeitsgericht Hamm (arbeidshof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/LangK</Identifier>
+    <Naam>Landesarbeitsgericht Köln (arbeidshof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/LaF</Identifier>
+    <Naam>Landesgericht Feldkirch</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/LfSW</Identifier>
+    <Naam>Landesgericht für Strafsachen Wien</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/LFZW</Identifier>
+    <Naam>Landesgericht für Zivilrechtssachen Wien</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/LIO</Identifier>
+    <Naam>Landesgericht Innsbruck</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/LGK</Identifier>
+    <Naam>Landesgericht Klagenfurt</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/LL</Identifier>
+    <Naam>Landesgericht Linz</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1125</Identifier>
+    <Naam>Landesgericht Salzburg (arrondissementsrechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/#LandesgerichtWienerNeustadt</Identifier>
+    <Naam>Landesgericht Wiener Neustadt </Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/LsB</Identifier>
+    <Naam>Landessozialgericht Berlin-Brandenburg</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/DE/#LandessozialgerichtNordrheinWestfalen</Identifier>
+    <Naam>Landessozialgericht Nordrhein-Westfalen </Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/DE/#LandessozialgerichtRheinlandPfalz</Identifier>
+    <Naam>Landessozialgericht Rheinland-Pfalz</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/AT/#LandesverwaltungsgerichtNiederösterreich</Identifier>
+    <Naam>Landesverwaltungsgericht Niederösterreich</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/LB</Identifier>
+    <Naam>Landgericht Berlin</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1130</Identifier>
+    <Naam>Landgericht Bonn</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/DE/#LandgerichtDarmstadt</Identifier>
+    <Naam>Landgericht Darmstadt </Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/DE/#LandgerichtDortmund</Identifier>
+    <Naam>Landgericht Dortmund</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1072</Identifier>
+    <Naam>Landgericht Düsseldorf</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/LgE</Identifier>
+    <Naam>Landgericht Essen</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/LFaM</Identifier>
+    <Naam>Landgericht Frankfurt am Main (rechtbank in eerste aanleg)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/LG</Identifier>
+    <Naam>Landgericht Giessen</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/LGH</Identifier>
+    <Naam>Landgericht Hagen</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/LH</Identifier>
+    <Naam>Landgericht Hamburg</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/DE/#LandgerichtHannover</Identifier>
+    <Naam>Landgericht Hannover</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/DE/#LandgerichtItzehoe</Identifier>
+    <Naam>Landgericht Itzehoe </Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/DE/#LandgerichtKiel</Identifier>
+    <Naam>Landgericht Kiel</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1160</Identifier>
+    <Naam>Landgericht Köln (rechtbank in eerste aanleg)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1118</Identifier>
+    <Naam>Landgericht Krefeld</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/LgM</Identifier>
+    <Naam>Landgericht Mannheim</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/LM</Identifier>
+    <Naam>Landgericht München</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/DE/#LandgerichtMünster</Identifier>
+    <Naam>Landgericht Münster</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/LR</Identifier>
+    <Naam>Landgericht Regensburg</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1110</Identifier>
+    <Naam>Landgericht Rostock</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1090</Identifier>
+    <Naam>Landgericht Saarbrücken</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/LaT</Identifier>
+    <Naam>Landgericht Tübingen (rechtbank in eerste aanleg)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/LgW</Identifier>
+    <Naam>Landgericht Wiesbaden</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/LW</Identifier>
+    <Naam>Landgericht Wurzberg</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/HL</Identifier>
+    <Naam>Lietuvos Aukščiausiasis Teismas (Hooggerechtshof van Litouwen)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/LVAT</Identifier>
+    <Naam>Lietuvos Vyriausiasis Administracinis Teismas (hoogste administratieve rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/LiT</Identifier>
+    <Naam>Linköpings tingsrätt (rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/LTC</Identifier>
+    <Naam>London Tribunal Centre</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/LT</Identifier>
+    <Naam>Lukea Tingsratten (rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/LuT</Identifier>
+    <Naam>Lunds Tingsrätt (rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/MKLB</Identifier>
+    <Naam>Magyar Koztarsasag Legfelsobb Birosaga (Hooggerechtshof, tot 1-1-2012)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/MaF</Identifier>
+    <Naam>Markkinaoikeus (Hof voor marktzaken)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/MaZ</Identifier>
+    <Naam>Marknadsdomstolen (Marketing Hof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/MoH</Identifier>
+    <Naam>Miljö- och Hälsosyddsnämnden (Milieu- en gezondheidscomité)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/MZ</Identifier>
+    <Naam>Miljööverdomstolen (gerechtshof milieuzaken)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/MGK</Identifier>
+    <Naam>Mokestiniu Gincu Komisija Prie Lietuvos Respublikos Vyriausybes (Commissie fiscale geschillen)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/GR/#MonomelesefteteioThrakisHofvanBeroep</Identifier>
+    <Naam>Monomeles efteteio Thrakis (Hof van Beroep)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/GR/#Monomelesprotodikeioathinonrechtbankineersteaanleg</Identifier>
+    <Naam>Monomeles protodikeio athinon (rechtbank in eerste aanleg)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/MPK</Identifier>
+    <Naam>Monomeles Protodikeio Kerkyras (rechtbank van eerste aanleg)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/MPR</Identifier>
+    <Naam>Monomeles Protodikeio Rethymnis (rechtbank van eerste aanleg)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/MPT</Identifier>
+    <Naam>Monomeles Protodikeio Thessalonikis (rechtbank van eerste aanleg)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/SE/#Nackatingsrättrechtbank</Identifier>
+    <Naam>Nacka tingsrätt (rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/NSAP</Identifier>
+    <Naam>Naczelny Sad Administracyjny (hoogste administratieve rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/NsSr</Identifier>
+    <Naam>Najvyssi sud Slovenskej republiky (Hooggerechtshof van de Slowaakse Republiek)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/CZ/#NejvyssisoudceskerepublikyHooggerechtshof</Identifier>
+    <Naam>Nejvyssi soud ceske republiky (Hooggerechtshof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/Nss</Identifier>
+    <Naam>Nejvyssi spravni soud (Hoogste Administratief Gerechtshof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/NOG</Identifier>
+    <Naam>Niedersächsisches Oberverwaltungsgericht</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/NMB</Identifier>
+    <Naam>Nógrád Megyei Bíróság (regionale rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/DE/#OberlandesgerichtBamberggerechtshof</Identifier>
+    <Naam>Oberlandesgericht Bamberg (gerechtshof)</Naam>
+    <Afkorting>xx</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/OC</Identifier>
+    <Naam>Oberlandesgericht Celle (gerechtshof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/OgD</Identifier>
+    <Naam>Oberlandesgericht Dresden (gerechtshof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/OD</Identifier>
+    <Naam>Oberlandesgericht Dusseldorf (gerechtshof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1077</Identifier>
+    <Naam>Oberlandesgericht Frankfurt (gerechtshof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/ObI</Identifier>
+    <Naam>Oberlandesgericht Innsbruck (hoogste rechtscollege voor Tirol en Vorarlberg)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/ObK</Identifier>
+    <Naam>Oberlandesgericht Karlsruhe (gerechtshof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/DE/#OberlandesgerichtKoblenz</Identifier>
+    <Naam>Oberlandesgericht Koblenz</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/oblgk</Identifier>
+    <Naam>Oberlandesgericht Köln (gerechtshof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/OGM</Identifier>
+    <Naam>Oberlandesgericht München (gerechtshof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/OGNB</Identifier>
+    <Naam>Oberlandesgericht Naumburg (gerechtshof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/ObN</Identifier>
+    <Naam>Oberlandesgericht Nürnberg (gerechtshof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/ObO</Identifier>
+    <Naam>Oberlandesgericht Oldenburg (gerechtshof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/OLGR</Identifier>
+    <Naam>Oberlandesgericht Rostock (gerechtshof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/OS</Identifier>
+    <Naam>Oberlandesgericht Stuttgart (gerechtshof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/DE/#OberlandesgerichtThüringen</Identifier>
+    <Naam>Oberlandesgericht Thüringen (gerechtshof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/ObW</Identifier>
+    <Naam>Oberlandesgericht Wien (hoogste rechtscollege deelstaat Wenen)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/OBD</Identifier>
+    <Naam>Oberste Berufungs- und Disziplinarkommission</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/OGO</Identifier>
+    <Naam>Oberste Gerichtshof</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/OPM</Identifier>
+    <Naam>Oberste Patent- und Markensenat</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/OBB</Identifier>
+    <Naam>Oberverwaltungsgericht Berlin-Brandenburg</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/ObNW</Identifier>
+    <Naam>Oberverwaltungsgericht Nordrhein-Westfalen</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/ORP</Identifier>
+    <Naam>Oberverwaltungsgericht Rheinland-Pfalz (administratief hof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/OSP</Identifier>
+    <Naam>Obvodni Soud pro Prahu (district court)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/OSCK</Identifier>
+    <Naam>Okresni Soud Cesky Krumlov (district court)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/OsC</Identifier>
+    <Naam>Okresni soud v Chebu (district court)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1162</Identifier>
+    <Naam>Okresný súd Bardejov (districtsrechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/SK/#OkresnysudDunajskaStedadistrictsrechtbank</Identifier>
+    <Naam>Okresny sud Dunajska Steda (districtsrechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/OksP</Identifier>
+    <Naam>Okresny sud Presov (districtsrechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1135</Identifier>
+    <Naam>Okresný súd Svidník (districtsrechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/HR/#OpćinskisuduNovomZagrebuStalnaslužbauSamoboruHof</Identifier>
+    <Naam>Općinski sud u Novom Zagrebu ˗ Stalna služba u Samoboru (Hof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/SE/#ÖstersundsTingsrättrechtbank</Identifier>
+    <Naam>Östersunds Tingsrätt (rechtbank)</Naam>
+    <Afkorting>xx</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/OL</Identifier>
+    <Naam>Ostre Landsret (gerechtshof Oost-Denemarken)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/PCL</Identifier>
+    <Naam>Patents Court London</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/PMB</Identifier>
+    <Naam>Pest Megyei Birosag (regionale rechtbank van Pest)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/HU/#PestiKözpontiKerületiBíróságrechtbankineersteaanleg</Identifier>
+    <Naam>Pesti Központi Kerületi Bíróság (rechtbank in eerste aanleg)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/Prs</Identifier>
+    <Naam>Plovdivski rayonen sad</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/PAtQ</Identifier>
+    <Naam>Prim’Awla tal-Qorti Civili (burgerlijke rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/RS</Identifier>
+    <Naam>Raad van State (België)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/HU/#RackeveiJarasbirosag</Identifier>
+    <Naam>Rackevei Jarasbirosag</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/rbant</Identifier>
+    <Naam>Rechtbank Antwerpen</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/rbbr</Identifier>
+    <Naam>Rechtbank Brussel</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/RBTH</Identifier>
+    <Naam>Rechtbank Turnhout</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/GeaA</Identifier>
+    <Naam>Rechtbank van eerste aanleg Antwerpen</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/GvEAB</Identifier>
+    <Naam>Rechtbank van eerste aanleg Bergen</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/geabr</Identifier>
+    <Naam>Rechtbank van eerste aanleg Brugge</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/geab</Identifier>
+    <Naam>Rechtbank van eerste aanleg Brussel</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/READ</Identifier>
+    <Naam>Rechtbank van eerste aanleg Dendermonde</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/RbG</Identifier>
+    <Naam>Rechtbank van eerste aanleg Gent</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/ReaH</Identifier>
+    <Naam>Rechtbank van eerste aanleg Hasselt</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/geak</Identifier>
+    <Naam>Rechtbank van eerste aanleg Kortrijk</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/GvEAL</Identifier>
+    <Naam>Rechtbank van eerste aanleg Leuven</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/gealu</Identifier>
+    <Naam>Rechtbank van eerste aanleg Luik</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/BE/#GerechtvaneersteaanlegMechelen</Identifier>
+    <Naam>Rechtbank van eerste aanleg Mechelen</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/GvEAN</Identifier>
+    <Naam>Rechtbank van eerste aanleg Namen</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/BE/#RechtbankvaneersteaanlegVeurne</Identifier>
+    <Naam>Rechtbank van eerste aanleg Veurne</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/rvkaw</Identifier>
+    <Naam>Rechtbank van koophandel Antwerpen</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/rbkhbr</Identifier>
+    <Naam>Rechtbank van koophandel Brugge</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/rvkb</Identifier>
+    <Naam>Rechtbank van koophandel Brussel</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/RKH</Identifier>
+    <Naam>Rechtbank van Koophandel Brussel</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/rvkd</Identifier>
+    <Naam>Rechtbank van koophandel Dendermonde</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/RbKD</Identifier>
+    <Naam>Rechtbank van Koophandel Dendermonde</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/rvbgt</Identifier>
+    <Naam>Rechtbank van koophandel Gent</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/rbhs</Identifier>
+    <Naam>Rechtbank van koophandel Hasselt</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/rbkhh</Identifier>
+    <Naam>Rechtbank van koophandel Hoei</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/rvbk</Identifier>
+    <Naam>Rechtbank van koophandel Kortrijk</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/rklv</Identifier>
+    <Naam>Rechtbank van koophandel Leuven</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/rbkhmc</Identifier>
+    <Naam>Rechtbank van koophandel Mechelen</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/rbnm</Identifier>
+    <Naam>Rechtbank van koophandel Namen</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/rbkhn</Identifier>
+    <Naam>Rechtbank van koophandel Nijvel</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/Rkon</Identifier>
+    <Naam>Rechtbank van koophandel Oudenaarde</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/rkth</Identifier>
+    <Naam>Rechtbank van koophandel Turnhout</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/rbvv</Identifier>
+    <Naam>Rechtbank van koophandel Verviers</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/RR</Identifier>
+    <Naam>Regeringsratten (supreme administrative court)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/DK/#RetteniGlostrupHofvanGlostrup</Identifier>
+    <Naam>Retten i Glostrup (Hof van Glostrup)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/RH</Identifier>
+    <Naam>Retten i Horsholm (Hof van Horsholm)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/DK/#RetteniKoldingHofvanKolding</Identifier>
+    <Naam>Retten i Kolding (Hof van Kolding)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/LV/#Rīgasapgabaltiesasregionalerechtbank</Identifier>
+    <Naam>Rīgas apgabaltiesas (regionale rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/tiigikohus</Identifier>
+    <Naam>Riigikohus (Hooggerechtshof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/RII</Identifier>
+    <Naam>Riigikohus (Supreme Court of Estonia)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/Rho</Identifier>
+    <Naam>Rovaniemen hallinto-oikeus (administrative court)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/RCJ</Identifier>
+    <Naam>Royal Court of Jersey</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/SL</Identifier>
+    <Naam>Sächsiches Landessozialgericht</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/SFg</Identifier>
+    <Naam>Sächsisches Finanzgericht</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/DE/#SächsischesOberverwaltungsgerichtadministratiefhof</Identifier>
+    <Naam>Sächsisches Oberverwaltungsgericht (administratief hof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/sadapelac</Identifier>
+    <Naam>Sad Apelacyjny – Sad Pracy i Ubezpieczen Spolecznych / Polen (Hof van Beroep - sociale zekerheid)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/PL/#SądApelacyjnywWarszawieHofvanBeroepWarschau</Identifier>
+    <Naam>Sąd Apelacyjny w Warszawie (Hof van Beroep Warschau</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/SNP</Identifier>
+    <Naam>Sad Najwyzszy (Hooggerechtshof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/PL/#SądOkręgowywGliwicachrechtbankineersteaanleg</Identifier>
+    <Naam>Sąd Okręgowy w Gliwicach (rechtbank in eerste aanleg)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/sadokrgwewroc</Identifier>
+    <Naam>Sad Okregowy we Wroclawiu (regionale rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/SRWSW</Identifier>
+    <Naam>Sad Rejonowy dla Warszawy w Warszawie (arrondissementsrechtbank Warschau)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/PL/#SadRejonowydlawroclawiarechtbankvaneersteaanleg</Identifier>
+    <Naam>Sad Rejonowy dla wroclawia (rechtbank van eerste aanleg)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/SRG</Identifier>
+    <Naam>Sad Rejonowy Gdansk (arrondissementsrechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/sadpoznan</Identifier>
+    <Naam>Sad Rejonowy Poznan (arrondissementsrechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1147</Identifier>
+    <Naam>Sad Rejonowy w Bialymstoku (arrondissementsrechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/SRK</Identifier>
+    <Naam>Sad Rejonowy w Koscianie (arrondissementsrechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/FI/#Satakunnankäräjäoikeusrechtbank</Identifier>
+    <Naam>Satakunnan käräjäoikeus (rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/GB/#ScottischLandcourt</Identifier>
+    <Naam>Scottish Land Court </Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/sodertroms</Identifier>
+    <Naam>Södertörns Tingsrätt (rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/Sgs</Identifier>
+    <Naam>Sofiyski gradski sad (Sofia City court)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/sooghandels</Identifier>
+    <Naam>Sø-og Handelsretten (maritieme en handelsrechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/SgB</Identifier>
+    <Naam>Sozialgericht Berlin</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/SzD</Identifier>
+    <Naam>Sozialgericht Dortmund</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/SK</Identifier>
+    <Naam>Sozialgericht Köln</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/DE/#SozialgerichtLeipzig</Identifier>
+    <Naam>Sozialgericht Leipzig</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/SN</Identifier>
+    <Naam>Sozialgericht Nürnberg (rechtbank voor sociale zekerheidszaken)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/SS</Identifier>
+    <Naam>Sozialgericht Stuttgart (rechtbank voor sociale zekerheidszaken)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/SoW</Identifier>
+    <Naam>Sozialgericht Würzburg</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/STJ</Identifier>
+    <Naam>Suprema Tribunal de Justica</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/SC</Identifier>
+    <Naam>Supreme Court</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/ISC</Identifier>
+    <Naam>Supreme Court of Ireland</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/STA</Identifier>
+    <Naam>Supremo Tribunal Administrativo</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/SH</Identifier>
+    <Naam>Svea Hovratt (gerechtshof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/STE</Identifier>
+    <Naam>Symvoulio tis Epikrateias</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/STET</Identifier>
+    <Naam>Symvoulio Tis Epikrateias Thima d' (deze niet gebruiken)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1074</Identifier>
+    <Naam>Szabolcs-Szatmár-Bereg Megyei Bíróság (regionale rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/SIH</Identifier>
+    <Naam>Szegedi Ítélotábla</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/HU/#SzegediKözigazgatásiésMunkaügyiBíróság</Identifier>
+    <Naam>Szegedi Közigazgatási és Munkaügyi Bíróság </Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1112</Identifier>
+    <Naam>Székesfehérvári Törvényszék (rechtbank Székesfehérvar)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/HU/#Szeksardikozigazgatasiesmunkaugyibirosag</Identifier>
+    <Naam>Szeksardi kozigazgatasi es munkaugyi birosag </Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/HU/#SzombathelyiKözigazgatásiésMunkaügyiBíróságarbeidsrechtbank</Identifier>
+    <Naam>Szombathelyi Közigazgatási és Munkaügyi Bíróság (arbeidsrechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/SVB</Identifier>
+    <Naam>Szombathelyi Varosi Birosag (rechtbank in eerste aanleg)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/THE</Identifier>
+    <Naam>Tallinna Halduskohus I Estland (administratieve rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/EE/#TallinnaRingkonnakohusrechtbankinberoepzakenTallinn</Identifier>
+    <Naam>Tallinna Ringkonnakohus (rechtbank in beroepzaken Tallinn)</Naam>
+    <Afkorting>xx</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TaK</Identifier>
+    <Naam>Tampereen Karajaoikeus (district court)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/BG/#TargovishtkiokrazhensadArrondissementsrechtbank</Identifier>
+    <Naam>Targovishtki okrazhen sad (Arrondissementsrechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TR</Identifier>
+    <Naam>Tartu Ringkonnakohus (rechtbank in beroepzaken Tartu)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1169</Identifier>
+    <Naam>Teleklagenævnet (Klachteninstituut Telecommunicatie)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/NITC</Identifier>
+    <Naam>The Northern Ireland Tribunal Centre</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/SSC</Identifier>
+    <Naam>The Social Security Commissioner</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/SP</Identifier>
+    <Naam>the Special Commissioners</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/nvt</Identifier>
+    <Naam>Tingsrätt Stockholm (rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TraL</Identifier>
+    <Naam>Tribunal administratif</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TadC</Identifier>
+    <Naam>Tribunal administratif de Caen</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1104</Identifier>
+    <Naam>Tribunal administratif de Grenoble</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TdLi</Identifier>
+    <Naam>Tribunal administratif de Limoges</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TaL</Identifier>
+    <Naam>Tribunal administratif de Lyon</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1156</Identifier>
+    <Naam>Tribunal administratif de Melun</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TaM</Identifier>
+    <Naam>Tribunal administratif de Montreuil</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TAdP</Identifier>
+    <Naam>Tribunal Administratif de Paris</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1170</Identifier>
+    <Naam>Tribunal administratif de Pau</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TadR</Identifier>
+    <Naam>Tribunal administratif de Rennes</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/FR/#TribunaladministratifdeStrasbourg</Identifier>
+    <Naam>Tribunal administratif de Strasbourg</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/PT/#TribunalAdministrativoeFiscaldeViseu</Identifier>
+    <Naam>Tribunal Administrativo e Fiscal de Viseu </Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TAFP</Identifier>
+    <Naam>Tribunal Administrativo e Fiscal do Porto</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/PT/#TribunalArbitralTributárioarbitrafiscalezaken</Identifier>
+    <Naam>Tribunal Arbitral Tributário (arbitrage fiscale zaken)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/ES/#TribunalCatalàdeContractesdelSectorPúblic</Identifier>
+    <Naam>Tribunal Català de Contractes del Sector Públic</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1098</Identifier>
+    <Naam>Tribunal Central administrativo Norte (administratieve rechtbank Noord)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/PT/#TribunalCentralAdministrativoSuladministratieverechtbankZuid</Identifier>
+    <Naam>Tribunal Central Administrativo Sul (administratieve rechtbank Zuid)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/PT/#TribunaldaRelaçãodeÉvoragerechtshof</Identifier>
+    <Naam>Tribunal da Relação de Évora (gerechtshof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1084</Identifier>
+    <Naam>Tribunal da Relação de Lisboa (gerechtshof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TdRdP</Identifier>
+    <Naam>Tribunal da Relação do Porto (gerechtshof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TD</Identifier>
+    <Naam>Tribunal Dambovita (rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TdCB</Identifier>
+    <Naam>Tribunal de Commerce de Bourges</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TCN</Identifier>
+    <Naam>Tribunal de Commerce de Nancy</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/FR/#TribunaldecommercedeVersailles</Identifier>
+    <Naam>Tribunal de commerce de Versailles</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1087</Identifier>
+    <Naam>Tribunal de commerce de Verviers-Eupen</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1166</Identifier>
+    <Naam>Tribunal de grande instance de Bayonne</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TGIB</Identifier>
+    <Naam>Tribunal de Grande Instance de Brive</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TGIN</Identifier>
+    <Naam>Tribunal de Grande Instance de Nanterre</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/FR/#TribunaldegrandeinstancedeNîmes</Identifier>
+    <Naam>Tribunal de grande instance de Nîmes </Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TGIdP</Identifier>
+    <Naam>Tribunal de Grande Instance de Paris (arrondissementsrechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TdGIdP</Identifier>
+    <Naam>Tribunal de Grande Instance de Périgueux</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TPN</Identifier>
+    <Naam>Tribunal de Police de Neufchateau</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TdTE</Identifier>
+    <Naam>Tribunal de travail, Esch-sur-Alzette</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TmM</Identifier>
+    <Naam>Tribunal departemental des pensions militaires de Morbihan</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TdASSL</Identifier>
+    <Naam>Tribunal des Affaires de Sécurité Sociale de Longwy (rechtbank sociale zekerheid)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TdASSP</Identifier>
+    <Naam>Tribunal des Affaires de Sécurité Sociale de Paris (rechtbank sociale zekerheid)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/FR/#TribunaldesaffairesdesécuritésocialedesBouchesduRhônerechtbanksocialezekerheid</Identifier>
+    <Naam>Tribunal des affaires de sécurité sociale des Bouches-du-Rhône (rechtbank sociale zekerheid)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TiB</Identifier>
+    <Naam>Tribunal d'instance de Bordeaux</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TdiP</Identifier>
+    <Naam>Tribunal d'instance de Paris (kantongerecht)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TiS</Identifier>
+    <Naam>Tribunal d'instance de Saintes</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1137</Identifier>
+    <Naam>Tribunal d'instance d'Orléans</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/PT/#TribunaldoComérciodeLisboa</Identifier>
+    <Naam>Tribunal do Comércio de Lisboa </Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/PT/#TribunaldotrabalhodeLeiriaarbeidsrechtbank</Identifier>
+    <Naam>Tribunal do trabalho de Leiria (arbeidsrechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1100</Identifier>
+    <Naam>Tribunal do trabalho de Viseu (arbeidsrechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/PT/#TribunaldoTrabalhodoPortoarbeidsrechtbank</Identifier>
+    <Naam>Tribunal do Trabalho do Porto (arbeidsrechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/ES/#TribunalEconómicoAdministrativoCentraldeMadrid</Identifier>
+    <Naam>Tribunal Económico Administrativo Central de Madrid </Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TFS</Identifier>
+    <Naam>Tribunal fédéral Suisse / Bundesgericht</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/RO/#TribunalSpecializatClujspecialerechtbank</Identifier>
+    <Naam>Tribunal Specializat Cluj (speciale rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/ES/#TribunalSuperiordeJusticiadeAndaluciaHooggerechtshof</Identifier>
+    <Naam>Tribunal Superior de Justicia de Andalucia (Hooggerechtshof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TSJC</Identifier>
+    <Naam>Tribunal Superior de Justicia de Cantabria</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TSdJCLM</Identifier>
+    <Naam>Tribunal Superior de Justicia de Castilla – La Mancha</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TSJCL</Identifier>
+    <Naam>Tribunal Superior de Justicia de Castilla Y León</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TSJCa</Identifier>
+    <Naam>Tribunal Superior de Justicia de Cataluna</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TSJG</Identifier>
+    <Naam>Tribunal Superior de Justicia de Galicia</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TSJMu</Identifier>
+    <Naam>Tribunal Superior de Justicia de Murcia</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TSJP</Identifier>
+    <Naam>Tribunal Superior de Justicia del Pais Vasco</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TSJM</Identifier>
+    <Naam>Tribunal Superior de Justicia Madrid</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TSJO</Identifier>
+    <Naam>Tribunal Superior de Justicia Oviedo</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TS</Identifier>
+    <Naam>Tribunal Supremo</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/RO/#TribunalTimișrechtbank</Identifier>
+    <Naam>Tribunal Timiș (rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/PT/#TribunalTributariodeLisboabelasting</Identifier>
+    <Naam>Tribunal Tributario de Lisboa (belasting)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TAS</Identifier>
+    <Naam>Tribunale Amministrativo per la Sardegna</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TARL</Identifier>
+    <Naam>Tribunale Amministrativo Regionale del Lazio</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TarC</Identifier>
+    <Naam>Tribunale amministrativo regionale della Campania</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1109</Identifier>
+    <Naam>Tribunale Amministrativo Regionale delle Marche</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/IT/#TribunaleAmministrativoRegionaleperilPiemonte</Identifier>
+    <Naam>Tribunale Amministrativo Regionale per il Piemonte </Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/IT/#TribunaleAmministrativoRegionaleperilVeneto</Identifier>
+    <Naam>Tribunale Amministrativo Regionale per il Veneto </Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TarLM</Identifier>
+    <Naam>Tribunale amministrativo regionale per la Lombardia, Milano</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TARP</Identifier>
+    <Naam>Tribunale Amministrativo Regionale per la Puglia</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TARplS</Identifier>
+    <Naam>Tribunale Amministrativo Regionale per la Sicilia</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1086</Identifier>
+    <Naam>Tribunale Amministrativo Regionale per la Toscana</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1101</Identifier>
+    <Naam>Tribunale amministrativo regionale per l'Abruzzo</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/IT/#TribunalecivilediBolognacivielerechtbank</Identifier>
+    <Naam>Tribunale civile di Bologna (civiele rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TCdM</Identifier>
+    <Naam>Tribunale Civile di Modena</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TCR</Identifier>
+    <Naam>Tribunale Civile di Roma (civiele rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/IT/#TribunalecivilediTriestecivielerechtbank</Identifier>
+    <Naam>Tribunale civile di Trieste (civiele rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TcpP</Identifier>
+    <Naam>Tribunale civile e penale di Palermo</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TdA</Identifier>
+    <Naam>Tribunale di Ancona</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TdBa</Identifier>
+    <Naam>Tribunale di Bari</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TdB</Identifier>
+    <Naam>Tribunale di Bergamo</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TdBo</Identifier>
+    <Naam>Tribunale di Bolzano</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/IT/#TribunalediCatania</Identifier>
+    <Naam>Tribunale di Catania </Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TC</Identifier>
+    <Naam>Tribunale di Civitavecchia</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TdC</Identifier>
+    <Naam>Tribunale di Cosenza</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/IT/#TribunalediCuneo</Identifier>
+    <Naam>Tribunale di Cuneo </Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1113</Identifier>
+    <Naam>Tribunale di Fermo</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TrdF</Identifier>
+    <Naam>Tribunale di Firenze</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TdF</Identifier>
+    <Naam>Tribunale di Forli</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/IT/#TribunalediFrosinone</Identifier>
+    <Naam>Tribunale di Frosinone </Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TGIP</Identifier>
+    <Naam>Tribunale di Gela</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TG</Identifier>
+    <Naam>Tribunale di Genova</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TdI</Identifier>
+    <Naam>Tribunale di Isernia</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TdL</Identifier>
+    <Naam>Tribunale di Larino</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TdiM</Identifier>
+    <Naam>Tribunale di Milano</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TdN</Identifier>
+    <Naam>Tribunale di Napoli</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/IT/#TribunalediReggioCalabria</Identifier>
+    <Naam>Tribunale di Reggio Calabria </Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TdR</Identifier>
+    <Naam>Tribunale di Rossano</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1128</Identifier>
+    <Naam>Tribunale di Rovigo</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/IT/#TribunalediSantamariaCapuVetere</Identifier>
+    <Naam>Tribunale di Santa maria Capu Vetere </Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TdT</Identifier>
+    <Naam>Tribunale di Teramo</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1105</Identifier>
+    <Naam>Tribunale di Tivoli</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TrdT</Identifier>
+    <Naam>Tribunale di Trani</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1119</Identifier>
+    <Naam>Tribunale di Trento</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TT</Identifier>
+    <Naam>Tribunale di Treviso</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/IT/#TribunalediUdine</Identifier>
+    <Naam>Tribunale di Udine </Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TdVe</Identifier>
+    <Naam>Tribunale di Venezia</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/IT/#TribunalediVerona</Identifier>
+    <Naam>Tribunale di Verona</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TdiV</Identifier>
+    <Naam>Tribunale di Vicenza</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TdVi</Identifier>
+    <Naam>Tribunale di Viterbo</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TdV</Identifier>
+    <Naam>Tribunale di Voghera</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TGSL</Identifier>
+    <Naam>Tribunale Genova</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1144</Identifier>
+    <Naam>Tribunale Ordinario di Aosta (rechtbank in eerste aanleg)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TON</Identifier>
+    <Naam>Tribunale Ordinario di Novara</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TOP</Identifier>
+    <Naam>Tribunale Ordinario di Padova</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TOR</Identifier>
+    <Naam>Tribunale Ordinario di Roma</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TOT</Identifier>
+    <Naam>Tribunale Ordinario di Torino</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1133</Identifier>
+    <Naam>Tribunalul Arges (rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/RO/#TribunalulBucureștirechtbank</Identifier>
+    <Naam>Tribunalul București (rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/RO/#TribunalulClujrechtbank</Identifier>
+    <Naam>Tribunalul Cluj (rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1093</Identifier>
+    <Naam>Tribunalul Giurgiu (regionale rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TrG</Identifier>
+    <Naam>Tribunalul Gorj (regionale rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/RO/#TribunalulMaramureșregionalerechtbank</Identifier>
+    <Naam>Tribunalul Maramureș (regionale rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/RO/#TribunalulNeamț</Identifier>
+    <Naam>Tribunalul Neamț </Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TrS</Identifier>
+    <Naam>Tribunalul Sibiu (regionale rechtbank Sibiu)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1134</Identifier>
+    <Naam>Tribunalul Vâlcea (rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/PL/#TrybunalkonstytucyjnyGrondwettelijkhof</Identifier>
+    <Naam>Trybunal konstytucyjny (Grondwettelijk hof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/FI/#TyötuomioistuinArbeidsrechtbank</Identifier>
+    <Naam>Työtuomioistuin (Arbeidsrechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/UGPI</Identifier>
+    <Naam>Ufficio del Giudice de Pace Ischia</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/UG</Identifier>
+    <Naam>Ufficio del Giudice di Pace di Bitonto</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/UGP</Identifier>
+    <Naam>Ufficio del giudice di pace te Genova Voltri</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/UF</Identifier>
+    <Naam>Unabhängige Finanzsenat</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/VLO</Identifier>
+    <Naam>Unabhängige Verwaltungssenat des Landes Oberösterreich</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/UVLV</Identifier>
+    <Naam>Unabhangiger Verwaltungssenat des Landes Voralberg</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/UVsLN</Identifier>
+    <Naam>Unabhängiger Verwaltungssenat im Land Niederösterreich</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/UVW</Identifier>
+    <Naam>Unabhängiger Verwaltungssenat Wenen</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/usdcnj</Identifier>
+    <Naam>United States District Court New Jersey</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/US/#UnitedStatesDistrictCourtSouthernDistrictofNewYork</Identifier>
+    <Naam>United States District Court Southern District of New York</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/UT</Identifier>
+    <Naam>Upper Tribunal</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/UsRS</Identifier>
+    <Naam>Upravno sodisce Republike Slovenije (administratief hof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1143</Identifier>
+    <Naam>Urad prumyslového vlastnictví (Bureau voor de Industriële Eigendom)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/SI/#UstavnosodiščeConstitutioneelHof</Identifier>
+    <Naam>Ustavno sodišče (Constitutioneel Hof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/UZ</Identifier>
+    <Naam>Utlänningsnämnden (Aliens Appeals Board)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/PT/#VarasCíveisdeLisboacivielerechtbank</Identifier>
+    <Naam>Varas Cíveis de Lisboa (civiele rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/SE/#Varbergstingsrättrechtbank</Identifier>
+    <Naam>Varbergs tingsrätt (rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/Vas</Identifier>
+    <Naam>Varhoven administrativen sad (hoogste administratieve beroepsinstantie)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/BG/#Varhovenkasatsionensad</Identifier>
+    <Naam>Varhoven kasatsionen sad </Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/VATDT</Identifier>
+    <Naam>VAT and Duties Tribunal</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1138</Identifier>
+    <Naam>Verfassungsgerichtshof (Grondwettelijk Hof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/DE/#VergabekammerSüdbayern</Identifier>
+    <Naam>Vergabekammer Südbayern </Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/VksW</Identifier>
+    <Naam>Vergabekontrollsenat des Landes Wien (commissie van toezicht op de aanbestedingen)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/VWGA</Identifier>
+    <Naam>Verwaltungsgericht Aachen</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/VwgB</Identifier>
+    <Naam>Verwaltungsgericht Berlin (administratieve rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/DE/#VerwaltungsgerichtBraunschweigadministratieverechtbank</Identifier>
+    <Naam>Verwaltungsgericht Braunschweig (administratieve rechtbank) </Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/VwgC</Identifier>
+    <Naam>Verwaltungsgericht Chemnitz</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/VwgD</Identifier>
+    <Naam>Verwaltungsgericht Darmstadt</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/DE/#VerwaltungsgerichtDüsseldorfadministratieverechtbank</Identifier>
+    <Naam>Verwaltungsgericht Düsseldorf (administratieve rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/VWG</Identifier>
+    <Naam>Verwaltungsgericht Frankfurt am Main (administratieve rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/VwgG</Identifier>
+    <Naam>Verwaltungsgericht Giessen (administratieve rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/VwH</Identifier>
+    <Naam>Verwaltungsgericht Halle (administratieve rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/VwgH</Identifier>
+    <Naam>Verwaltungsgericht Hannover</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/VWGK</Identifier>
+    <Naam>Verwaltungsgericht Köln</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/VwghM</Identifier>
+    <Naam>Verwaltungsgericht Mainz</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/VwgM</Identifier>
+    <Naam>Verwaltungsgericht Meiningen (administratieve rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/VwgSa</Identifier>
+    <Naam>Verwaltungsgericht Saarland (administratieve rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/VwSH</Identifier>
+    <Naam>Verwaltungsgericht Schleswig-Holstein</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/VWGS</Identifier>
+    <Naam>Verwaltungsgericht Schwerin</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/VwS</Identifier>
+    <Naam>Verwaltungsgericht Sigmaringen</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/VGS</Identifier>
+    <Naam>Verwaltungsgericht Stuttgart (administratieve rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/AT/#VerwaltungsgerichtWien</Identifier>
+    <Naam>Verwaltungsgericht Wien </Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/VwgW</Identifier>
+    <Naam>Verwaltungsgericht Wiesbaden (administratieve rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/VBW</Identifier>
+    <Naam>Verwaltungsgerichtshof Baden-Württemberg</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/VwghH</Identifier>
+    <Naam>Verwaltungsgerichtshof Hessen</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/VWGO</Identifier>
+    <Naam>Verwaltungsgerichtshof Oostenrijk</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/VL</Identifier>
+    <Naam>Vestre Landsret (Gerechtshof West Denemarken)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/LT/#Vilniausapygardosadministracinisteismasregionaleadministratieverechtbank</Identifier>
+    <Naam>Vilniaus apygardos administracinis teismas (regionale administratieve rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/VMAT</Identifier>
+    <Naam>Vilniaus Miesto 1 Apylinkes Teismas (arrondissementsrechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/VSMS</Identifier>
+    <Naam>Visje sodisce v Mariboru (gerechtshof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/VGGENT</Identifier>
+    <Naam>Vredegerecht Gent</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/BE/#Vredesgerechtvanheteerstekanton</Identifier>
+    <Naam>Vredesgerecht van het eerste kanton</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1161</Identifier>
+    <Naam>Vrhovno sodišce Republike Slovenije  (Hooggerechtshof)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/WSAP</Identifier>
+    <Naam>Wojewodzki Sad Administracyjni w Poznaniu (administratieve rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/WSAB</Identifier>
+    <Naam>Wojewodzki Sad Administracyjny w Bialymstoku (administratieve rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/wojsadadmgdansk</Identifier>
+    <Naam>Wojewódzki Sad Administracyjny w Gdansku (administratieve rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/WSAwG</Identifier>
+    <Naam>Wojewodzki Sad Administracyjny w Gliwicah (administratieve rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/WSAK</Identifier>
+    <Naam>Wojewodzki Sad Administracyjny w Krakowie (administratieve rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie#i1146</Identifier>
+    <Naam>Wojewódzki Sad Administracyjny w Lodzi (administratieve rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/WSAW</Identifier>
+    <Naam>Wojewodzki Sad Administracyjny w Warszawie (Warschau) (administratieve rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/WSAWr</Identifier>
+    <Naam>Wojewodzki Sad Administracyjny we Wroclawiu (administratieve rechtbank)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/zmb</Identifier>
+    <Naam>Zala Megyei Birosag (regionale rechtbank Zala)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/HU/#ZalaegerszegiKözigazgatásiésMunkaügyiBíróság</Identifier>
+    <Naam>Zalaegerszegi Közigazgatási és Munkaügyi Bíróság </Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>BuitenlandseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/AGHVJEGKS</Identifier>
+    <Naam>Advocaat-Generaal Hof van Justitie (EGKS)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>AdvocaatGeneraalEuropa</Type>
+    <BeginDate>1913-01-01</BeginDate>
+    <EndDate>1957-12-31</EndDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/AGHVJEEG</Identifier>
+    <Naam>Advocaat-Generaal Hof van Justitie van de Europese Economische Gemeenschappen</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>AdvocaatGeneraalEuropa</Type>
+    <BeginDate>1913-01-01</BeginDate>
+    <EndDate>1993-10-30</EndDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/AGHVJEG</Identifier>
+    <Naam>Advocaat-Generaal Hof van Justitie van de Europese Gemeenschappen</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>AdvocaatGeneraalEuropa</Type>
+    <BeginDate>1913-01-01</BeginDate>
+    <EndDate>2009-11-30</EndDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/AGHVJEU</Identifier>
+    <Naam>Advocaat-Generaal Hof van Justitie van de Europese Unie</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>AdvocaatGeneraalEuropa</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/EuropeseInstantie/#AdvocaatGeneraalbijhetBeneluxGerechtshof</Identifier>
+    <Naam>Advocaat-Generaal Benelux Gerechtshof</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>EuropeseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/BG</Identifier>
+    <Naam>Benelux Gerechtshof</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>EuropeseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/instantie/EuropeseInstantie/#BoardofAppealoftheEuropeanSupervisoryAuthorities</Identifier>
+    <Naam>Board of Appeal of the European Supervisory Authorities </Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>EuropeseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/ECSR</Identifier>
+    <Naam>Europees Comité voor Sociale Rechten</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>EuropeseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/EHRM</Identifier>
+    <Naam>Europees Hof voor de Rechten van de Mens</Naam>
+    <Afkorting>ECHR</Afkorting>
+    <Type>EuropeseInstantie</Type>
+    <BeginDate>1950-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/EOB</Identifier>
+    <Naam>Europees Octrooibureau</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>EuropeseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/cieeg</Identifier>
+    <Naam>Europese Commissie</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>EuropeseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/ECRM</Identifier>
+    <Naam>Europese Commissie voor de rechten van de mens</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>EuropeseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/eomb</Identifier>
+    <Naam>Europese ombudsman</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>EuropeseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/GEAEG</Identifier>
+    <Naam>Gerecht van Eerste Aanleg EG</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>EuropeseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+    <EndDate>2009-11-30</EndDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/GvAEU</Identifier>
+    <Naam>Gerecht voor Ambtenarenzaken van de Europese Unie</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>EuropeseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/GEREU</Identifier>
+    <Naam>Het Gerecht van de Europese Unie</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>EuropeseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/HvJEGKS</Identifier>
+    <Naam>Hof van Justitie (EGKS)</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>EuropeseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+    <EndDate>1957-12-31</EndDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/HvJEEG</Identifier>
+    <Naam>Hof van Justitie van de Europese Economische Gemeenschappen</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>EuropeseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+    <EndDate>1993-10-31</EndDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/HvJEG</Identifier>
+    <Naam>Hof van Justitie van de Europese Gemeenschappen</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>EuropeseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+    <EndDate>2009-11-30</EndDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/HvJEU</Identifier>
+    <Naam>Hof van Justitie van de Europese Unie</Naam>
+    <Afkorting>C</Afkorting>
+    <Type>EuropeseInstantie</Type>
+    <BeginDate>2009-12-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/TA-EVA</Identifier>
+    <Naam>Toezichthoudende Autoriteit van de Europese Vrijhandelsassociatie</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>EuropeseInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/abwto</Identifier>
+    <Naam>Appellate Body World Trade Organisation</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>InternationaleInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/BBIE</Identifier>
+    <Naam>Benelux-Bureau voor de Intellectuele Eigendom</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>InternationaleInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/BMB</Identifier>
+    <Naam>Benelux-Merkenbureau</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>InternationaleInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/CvDESH</Identifier>
+    <Naam>Comité van deskundigen ex art. 25 Europees Sociaal Handvest</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>InternationaleInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/cvrm</Identifier>
+    <Naam>Comité voor de Rechten van de Mens</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>InternationaleInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/cat</Identifier>
+    <Naam>Committee against Torture</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>InternationaleInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/GBILO</Identifier>
+    <Naam>Governing Body of the International Labour Office</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>InternationaleInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/ILOCFA</Identifier>
+    <Naam>ILO Committee on Freedom of Association</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>InternationaleInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/IGH</Identifier>
+    <Naam>Internationaal Gerechtshof</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>InternationaleInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/JT</Identifier>
+    <Naam>Joegoslavië-tribunaal</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>InternationaleInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/OECD</Identifier>
+    <Naam>Organisation for Economic Co-operation and Development</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>InternationaleInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/pwto</Identifier>
+    <Naam>Panel World Trade Organisation</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>InternationaleInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+  <Instantie>
+    <Identifier>http://psi.rechtspraak.nl/nvt1</Identifier>
+    <Naam>Wipo Arbitration and Mediation Center</Naam>
+    <Afkorting>XX</Afkorting>
+    <Type>InternationaleInstantie</Type>
+    <BeginDate>1913-01-01</BeginDate>
+  </Instantie>
+</Instanties>
